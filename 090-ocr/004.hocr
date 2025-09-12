@@ -13,15 +13,18 @@
    <div class='ocr_carea' id='block_1_1' title="bbox 287 2191 2408 4514">
     <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 287 2191 2408 4514">
      <span class='ocr_line' id='line_1_1' title="bbox 318 2191 751 2345; baseline 0 -82; x_size 67.404922; x_descenders 16.18932; x_ascenders 18.09375">
-      <span class='ocrx_word' id='word_1_1' title='bbox 318 2191 481 2345; x_wconf 58'>A!</span>
       <span class='ocrx_word' id='word_1_2' title='bbox 670 2227 751 2263; x_wconf 96'>MIX</span>
      </span>
      <span class='ocr_line' id='line_1_2' title="bbox 531 2292 887 2365; baseline 0 -8; x_size 77.649979; x_descenders 18.649981; x_ascenders 20.843868">
-      <span class='ocrx_word' id='word_1_3' title='bbox 531 2288 729 2381; x_wconf 0'>Fungevolien</span>
-      <span class='ocrx_word' id='word_1_4' title='bbox 753 2288 887 2381; x_wconf 57' lang='deu'>Quellen</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 531 2288 636 2327; x_wconf 0'>Papier</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 645 2296 704 2321; x_wconf 57' lang='deu'>aus</span>
+      <span class='ocrx_word' id='word_1_4a' title='bbox 716 2292 888 2321; x_wconf 57' lang='deu'>verantwor-</span>
+      <span class='ocrx_word' id='word_1_4b' title='bbox 547 2330 733 2364; x_wconf 57' lang='deu'>tungsvollen</span>
+      <span class='ocrx_word' id='word_1_4c' title='bbox 744 2328 868 2360; x_wconf 57' lang='deu'>Quellen</span>
      </span>
      <span class='ocr_line' id='line_1_3' title="bbox 346 2355 865 2434; baseline 0.002 -6; x_size 48.695751; x_descenders 11.69575; x_ascenders 13.071579">
-      <span class='ocrx_word' id='word_1_5' title='bbox 346 2355 476 2434; x_wconf 72'>FSC</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 346 2355 476 2398; x_wconf 72'>FSC</span>
+      <span class='ocrx_word' id='word_1_5a' title='bbox 346 2408 476 2433; x_wconf 72'>www.fsc.org</span>
       <span class='ocrx_word' id='word_1_6' title='bbox 551 2393 661 2430; x_wconf 86'>FSC®</span>
       <span class='ocrx_word' id='word_1_7' title='bbox 675 2392 865 2430; x_wconf 86'>C013736</span>
      </span>
@@ -38,8 +41,7 @@
       <span class='ocrx_word' id='word_1_13' title='bbox 1147 2818 1295 2861; x_wconf 96'>unter</span>
       <span class='ocrx_word' id='word_1_14' title='bbox 1317 2810 1437 2860; x_wconf 96'>dem</span>
       <span class='ocrx_word' id='word_1_15' title='bbox 1458 2810 1584 2860; x_wconf 93'>Titel</span>
-      <span class='ocrx_word' id='word_1_16' title='bbox 1617 2830 1632 2856; x_wconf 93'>»</span>
-      <span class='ocrx_word' id='word_1_17' title='bbox 1641 2810 1748 2860; x_wconf 96'>The</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 1609 2810 1748 2860; x_wconf 96'>»The</span>
       <span class='ocrx_word' id='word_1_18' title='bbox 1769 2810 1933 2860; x_wconf 93'>Mood</span>
       <span class='ocrx_word' id='word_1_19' title='bbox 1954 2812 2115 2860; x_wconf 93'>Cure«</span>
       <span class='ocrx_word' id='word_1_20' title='bbox 2142 2812 2213 2859; x_wconf 96'>im</span>
@@ -79,7 +81,6 @@
       <span class='ocrx_word' id='word_1_44' title='bbox 287 3259 413 3307; x_wconf 89'>gegr.</span>
       <span class='ocrx_word' id='word_1_45' title='bbox 442 3249 591 3299; x_wconf 96'>1659,</span>
       <span class='ocrx_word' id='word_1_46' title='bbox 616 3244 859 3308; x_wconf 96'>Stuttgart</span>
-      <span class='ocrx_word' id='word_1_47' title='bbox 1595 3234 1598 3237; x_wconf 77'>|</span>
      </span>
      <span class='ocr_line' id='line_1_12' title="bbox 287 3327 1535 3393; baseline -0.001 -15; x_size 66; x_descenders 15; x_ascenders 18">
       <span class='ocrx_word' id='word_1_48' title='bbox 287 3327 406 3378; x_wconf 93'>Alle</span>
@@ -111,7 +112,7 @@
       <span class='ocrx_word' id='word_1_66' title='bbox 572 3672 684 3723; x_wconf 93'>und</span>
       <span class='ocrx_word' id='word_1_67' title='bbox 705 3672 986 3739; x_wconf 96' lang='deu'>gebunden</span>
       <span class='ocrx_word' id='word_1_68' title='bbox 1006 3690 1111 3722; x_wconf 93'>von</span>
-      <span class='ocrx_word' id='word_1_69' title='bbox 1132 3672 1300 3729; x_wconf 75'>Késel,</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 1132 3672 1300 3729; x_wconf 75'>Kösel,</span>
       <span class='ocrx_word' id='word_1_70' title='bbox 1324 3672 1562 3737; x_wconf 90'>Krugzell</span>
      </span>
      <span class='ocr_line' id='line_1_17' title="bbox 288 3761 992 3809; baseline 0.001 -1; x_size 56.592358; x_descenders 13.592359; x_ascenders 15.191294">
