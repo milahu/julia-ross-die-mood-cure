@@ -47,6 +47,7 @@
 
     <p class='ocr_par' id='par_1_2' lang='deu' title="bbox 231 791 2703 1163">
      <span class='ocr_line' id='line_1_4' title="bbox 304 791 2702 867; baseline 0 -19.97; x_size 66; x_descenders 9; x_ascenders 21">
+      <span class='ocrx_word' id='word_1_26a' title='bbox 230 802 273 848; x_wconf 96'>•</span>
       <span class='ocrx_word' id='word_1_26' title='bbox 304 791 550 848; x_wconf 96'>Denken</span>
       <span class='ocrx_word' id='word_1_27' title='bbox 588 795 686 849; x_wconf 96'>Sie</span>
       <span class='ocrx_word' id='word_1_28' title='bbox 724 813 799 849; x_wconf 96'>an</span>
@@ -95,6 +96,7 @@
 
     <p class='ocr_par' id='par_1_3' lang='deu' title="bbox 230 1210 2704 1704">
      <span class='ocr_line' id='line_1_8' title="bbox 304 1210 2704 1286; baseline 0 -20; x_size 76; x_descenders 19; x_ascenders 20">
+      <span class='ocrx_word' id='word_1_63a' title='bbox 230 1222 272 1266; x_wconf 92'>•</span>
       <span class='ocrx_word' id='word_1_63' title='bbox 304 1213 453 1266; x_wconf 92'>PMS</span>
       <span class='ocrx_word' id='word_1_64' title='bbox 500 1213 574 1267; x_wconf 93'>ist</span>
       <span class='ocrx_word' id='word_1_65' title='bbox 616 1210 949 1285; x_wconf 92'>berüchtigt</span>
@@ -154,6 +156,7 @@
 
     <p class='ocr_par' id='par_1_4' lang='deu' title="bbox 229 1732 2707 2123">
      <span class='ocr_line' id='line_1_13' title="bbox 301 1732 2706 1791; baseline 0 -2; x_size 75.108353; x_descenders 18.108356; x_ascenders 20">
+      <span class='ocrx_word' id='word_1_109a' title='bbox 227 1748 271 1789; x_wconf 95'>•</span>
       <span class='ocrx_word' id='word_1_109' title='bbox 301 1735 420 1789; x_wconf 95'>Wir</span>
       <span class='ocrx_word' id='word_1_110' title='bbox 453 1733 707 1790; x_wconf 96'>machen</span>
       <span class='ocrx_word' id='word_1_111' title='bbox 741 1733 855 1790; x_wconf 96'>alle</span>
