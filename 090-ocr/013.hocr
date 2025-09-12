@@ -83,7 +83,7 @@
       <span class='ocrx_word' id='word_1_50' title='bbox 232 2148 490 2207; x_wconf 96'>hundert</span>
       <span class='ocrx_word' id='word_1_51' title='bbox 524 2150 733 2221; x_wconf 96'>Jahren</span>
       <span class='ocrx_word' id='word_1_52' title='bbox 768 2150 1022 2226; x_wconf 93'>geboren</span>
-      <span class='ocrx_word' id='word_1_53' title='bbox 1059 2151 1350 2216; x_wconf 89'>wurden,!</span>
+      <span class='ocrx_word' id='word_1_53' title='bbox 1059 2151 1350 2216; x_wconf 89'>wurden,<sup>1</sup></span>
       <span class='ocrx_word' id='word_1_54' title='bbox 1390 2151 1518 2208; x_wconf 96'>und</span>
       <span class='ocrx_word' id='word_1_55' title='bbox 1556 2151 1718 2208; x_wconf 96'>diese</span>
       <span class='ocrx_word' id='word_1_56' title='bbox 1756 2150 2063 2208; x_wconf 96'>Probleme</span>
@@ -106,7 +106,7 @@
      </span>
      <span class='ocr_line' id='line_1_9' title="bbox 236 2359 2712 2435; baseline 0 -20; x_size 75; x_descenders 18; x_ascenders 20">
       <span class='ocrx_word' id='word_1_71' title='bbox 236 2366 386 2415; x_wconf 93'>1990</span>
-      <span class='ocrx_word' id='word_1_72' title='bbox 413 2359 865 2417; x_wconf 88'>verdreifacht??</span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 413 2359 865 2417; x_wconf 88'>verdreifacht<sup>2,3</sup></span>
       <span class='ocrx_word' id='word_1_73' title='bbox 894 2360 1021 2417; x_wconf 96'>und</span>
       <span class='ocrx_word' id='word_1_74' title='bbox 1049 2360 1193 2417; x_wconf 96'>über</span>
       <span class='ocrx_word' id='word_1_75' title='bbox 1221 2368 1295 2417; x_wconf 96'>80</span>
@@ -124,7 +124,7 @@
       <span class='ocrx_word' id='word_1_85' title='bbox 886 2464 1030 2522; x_wconf 93'>über</span>
       <span class='ocrx_word' id='word_1_86' title='bbox 1058 2465 1669 2540; x_wconf 90'>unverhältnismäßig</span>
       <span class='ocrx_word' id='word_1_87' title='bbox 1698 2464 1818 2522; x_wconf 96'>viel</span>
-      <span class='ocrx_word' id='word_1_88' title='bbox 1850 2468 2083 2522; x_wconf 80' lang='eng'>Stress.*</span>
+      <span class='ocrx_word' id='word_1_88' title='bbox 1850 2468 2083 2522; x_wconf 80' lang='eng'>Stress.<sup>4</sup></span>
       <span class='ocrx_word' id='word_1_89' title='bbox 2115 2468 2294 2540; x_wconf 96'>Sogar</span>
       <span class='ocrx_word' id='word_1_90' title='bbox 2322 2485 2540 2522; x_wconf 93' lang='eng'>unsere</span>
       <span class='ocrx_word' id='word_1_91' title='bbox 2571 2467 2712 2521; x_wconf 92' lang='eng'>Kin-</span>
@@ -142,7 +142,7 @@
       <span class='ocrx_word' id='word_1_101' title='bbox 2320 2568 2713 2626; x_wconf 96'>erheblichen</span>
      </span>
      <span class='ocr_line' id='line_1_12' title="bbox 232 2673 2714 2749; baseline 0 -20; x_size 76; x_descenders 19; x_ascenders 20">
-      <span class='ocrx_word' id='word_1_102' title='bbox 232 2674 845 2749; x_wconf 11' lang='eng'>Gemiitsstorungen.®</span>
+      <span class='ocrx_word' id='word_1_102' title='bbox 232 2674 845 2749; x_wconf 11' lang='eng'>Gemütsstörungen.<sup>5</sup></span>
       <span class='ocrx_word' id='word_1_103' title='bbox 877 2677 1171 2749; x_wconf 96'>Derartige</span>
       <span class='ocrx_word' id='word_1_104' title='bbox 1204 2674 1510 2731; x_wconf 96'>Probleme</span>
       <span class='ocrx_word' id='word_1_105' title='bbox 1543 2674 1804 2731; x_wconf 96'>nehmen</span>
@@ -171,7 +171,7 @@
       <span class='ocrx_word' id='word_1_124' title='bbox 375 2882 503 2939; x_wconf 96'>und</span>
       <span class='ocrx_word' id='word_1_125' title='bbox 527 2882 1027 2958; x_wconf 96'>Behinderungen</span>
       <span class='ocrx_word' id='word_1_126' title='bbox 1052 2883 1297 2940; x_wconf 96'>ablösen</span>
-      <span class='ocrx_word' id='word_1_127' title='bbox 1321 2883 1608 2941; x_wconf 30'>werden.‘</span>
+      <span class='ocrx_word' id='word_1_127' title='bbox 1321 2883 1608 2941; x_wconf 30'>werden.<sup>6</sup></span>
      </span>
     </p>
 
