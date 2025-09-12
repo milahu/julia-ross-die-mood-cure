@@ -144,7 +144,7 @@
       <span class='ocrx_word' id='word_1_104' title='bbox 2545 1616 2766 1674; x_wconf 96'>höhere</span>
      </span>
      <span class='ocr_line' id='line_1_13' title="bbox 293 1720 733 1778; baseline 0.002 -1; x_size 71.610825; x_descenders 13.610826; x_ascenders 21">
-      <span class='ocrx_word' id='word_1_105' title='bbox 293 1720 733 1778; x_wconf 80' lang='eng'>Riickfallrate.”</span>
+      <span class='ocrx_word' id='word_1_105' title='bbox 293 1720 733 1778; x_wconf 80' lang='eng'>Rückfallrate.<sup>7</sup></span>
      </span>
     </p>
 
@@ -181,7 +181,7 @@
       <span class='ocrx_word' id='word_1_130' title='bbox 821 2038 1034 2093; x_wconf 96'>immer</span>
       <span class='ocrx_word' id='word_1_131' title='bbox 1055 2039 1258 2093; x_wconf 93'>weiter</span>
       <span class='ocrx_word' id='word_1_132' title='bbox 1281 2036 1764 2094; x_wconf 92' lang='deu'>entwickelnden</span>
-      <span class='ocrx_word' id='word_1_133' title='bbox 1786 2036 2767 2111; x_wconf 83'>Erndhrungstherapieprogramm</span>
+      <span class='ocrx_word' id='word_1_133' title='bbox 1786 2036 2767 2111; x_wconf 83'>Ernährungstherapieprogramm</span>
      </span>
      <span class='ocr_line' id='line_1_17' title="bbox 292 2139 2766 2206; baseline 0 -11; x_size 66; x_descenders 9; x_ascenders 20">
       <span class='ocrx_word' id='word_1_134' title='bbox 292 2158 509 2196; x_wconf 95'>waren.</span>
@@ -207,7 +207,7 @@
       <span class='ocrx_word' id='word_1_152' title='bbox 1256 2245 1700 2302; x_wconf 90'>Medikamente</span>
       <span class='ocrx_word' id='word_1_153' title='bbox 1736 2244 1903 2302; x_wconf 93'>nicht</span>
       <span class='ocrx_word' id='word_1_154' title='bbox 1939 2244 2129 2302; x_wconf 91'>fremd</span>
-      <span class='ocrx_word' id='word_1_155' title='bbox 2166 2244 2256 2302; x_wconf 94'>fiir</span>
+      <span class='ocrx_word' id='word_1_155' title='bbox 2166 2244 2256 2302; x_wconf 94'>für</span>
       <span class='ocrx_word' id='word_1_156' title='bbox 2293 2244 2410 2301; x_wconf 93'>den</span>
       <span class='ocrx_word' id='word_1_157' title='bbox 2445 2243 2766 2301; x_wconf 91'>menschli-</span>
      </span>
@@ -217,7 +217,7 @@
       <span class='ocrx_word' id='word_1_160' title='bbox 742 2349 898 2415; x_wconf 93'>sind,</span>
       <span class='ocrx_word' id='word_1_161' title='bbox 935 2349 1201 2406; x_wconf 95' lang='deu'>konnten</span>
       <span class='ocrx_word' id='word_1_162' title='bbox 1237 2353 1434 2406; x_wconf 93'>meine</span>
-      <span class='ocrx_word' id='word_1_163' title='bbox 1468 2349 2351 2425; x_wconf 81'>Erndhrungswissenschaftler</span>
+      <span class='ocrx_word' id='word_1_163' title='bbox 1468 2349 2351 2425; x_wconf 81'>Ernährungswissenschaftler</span>
       <span class='ocrx_word' id='word_1_164' title='bbox 2384 2348 2513 2406; x_wconf 95'>und</span>
       <span class='ocrx_word' id='word_1_165' title='bbox 2547 2348 2646 2406; x_wconf 96'>ich</span>
       <span class='ocrx_word' id='word_1_166' title='bbox 2681 2351 2767 2405; x_wconf 96'>sie</span>
@@ -240,11 +240,8 @@
       <span class='ocrx_word' id='word_1_176' title='bbox 293 2707 419 2774; x_wconf 93'>Die</span>
       <span class='ocrx_word' id='word_1_177' title='bbox 450 2708 962 2774; x_wconf 88'>Kombination</span>
       <span class='ocrx_word' id='word_1_178' title='bbox 995 2727 1130 2774; x_wconf 93'>aus</span>
-      <span class='ocrx_word' id='word_1_179' title='bbox 1163 2709 1941 2791; x_wconf 91'>Ernahrungstherapie</span>
+      <span class='ocrx_word' id='word_1_179' title='bbox 1163 2709 1941 2791; x_wconf 91'>Ernährungstherapie</span>
      </span>
-    </p>
-
-    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 293 2816 1084 2899">
      <span class='ocr_line' id='line_1_22' title="bbox 293 2816 1084 2899; baseline 0.003 -18; x_size 83; x_descenders 17; x_ascenders 18">
       <span class='ocrx_word' id='word_1_180' title='bbox 293 2816 440 2882; x_wconf 95'>und</span>
       <span class='ocrx_word' id='word_1_181' title='bbox 473 2816 1084 2899; x_wconf 96'>Psychotherapie</span>
@@ -274,7 +271,7 @@
       <span class='ocrx_word' id='word_1_198' title='bbox 1179 3081 1460 3156; x_wconf 96' lang='deu'>kämpfen</span>
       <span class='ocrx_word' id='word_1_199' title='bbox 1487 3081 1708 3147; x_wconf 95' lang='deu'>hatten,</span>
       <span class='ocrx_word' id='word_1_200' title='bbox 1739 3084 1901 3138; x_wconf 93'>einer</span>
-      <span class='ocrx_word' id='word_1_201' title='bbox 1927 3084 2294 3156; x_wconf 90'>Essstorung,</span>
+      <span class='ocrx_word' id='word_1_201' title='bbox 1927 3084 2294 3156; x_wconf 90'>Essstörung,</span>
       <span class='ocrx_word' id='word_1_202' title='bbox 2326 3080 2423 3138; x_wconf 93'>die</span>
       <span class='ocrx_word' id='word_1_203' title='bbox 2451 3080 2767 3137; x_wconf 92'>normaler-</span>
      </span>
@@ -324,7 +321,7 @@
       <span class='ocrx_word' id='word_1_240' title='bbox 287 3518 489 3556; x_wconf 96'>waren</span>
       <span class='ocrx_word' id='word_1_241' title='bbox 518 3502 603 3556; x_wconf 93'>sie</span>
       <span class='ocrx_word' id='word_1_242' title='bbox 633 3498 956 3574; x_wconf 91'>depressiv,</span>
-      <span class='ocrx_word' id='word_1_243' title='bbox 988 3505 1445 3575; x_wconf 91'>zwangsgestort</span>
+      <span class='ocrx_word' id='word_1_243' title='bbox 988 3505 1445 3575; x_wconf 91'>zwangsgestört</span>
       <span class='ocrx_word' id='word_1_244' title='bbox 1471 3500 1599 3557; x_wconf 93'>und</span>
       <span class='ocrx_word' id='word_1_245' title='bbox 1628 3499 2075 3557; x_wconf 92'>selbstkritisch.</span>
       <span class='ocrx_word' id='word_1_246' title='bbox 2106 3499 2241 3556; x_wconf 93'>Alle</span>
@@ -361,7 +358,7 @@
       <span class='ocrx_word' id='word_1_273' title='bbox 2648 3707 2767 3764; x_wconf 96' lang='deu'>Ehe</span>
      </span>
      <span class='ocr_line' id='line_1_31' title="bbox 286 3812 2768 3888; baseline 0 -19; x_size 70.610825; x_descenders 13.610826; x_ascenders 20">
-      <span class='ocrx_word' id='word_1_274' title='bbox 286 3812 695 3887; x_wconf 89'>ungliicklich.</span>
+      <span class='ocrx_word' id='word_1_274' title='bbox 286 3812 695 3887; x_wconf 89'>unglücklich.</span>
       <span class='ocrx_word' id='word_1_275' title='bbox 723 3816 831 3869; x_wconf 93'>Die</span>
       <span class='ocrx_word' id='word_1_276' title='bbox 859 3813 1032 3870; x_wconf 91'>dritte</span>
       <span class='ocrx_word' id='word_1_277' title='bbox 1058 3817 1205 3870; x_wconf 95'>Frau</span>
@@ -390,7 +387,6 @@
      <span class='ocr_line' id='line_1_33' title="bbox 286 4021 1099 4098; baseline 0.001 -20; x_size 71.610825; x_descenders 13.610826; x_ascenders 21">
       <span class='ocrx_word' id='word_1_297' title='bbox 286 4042 363 4078; x_wconf 92'>zu</span>
       <span class='ocrx_word' id='word_1_298' title='bbox 387 4021 666 4079; x_wconf 92'>arbeiten.</span>
-      <span class='ocrx_word' id='word_1_299' title='bbox 1097 4095 1099 4098; x_wconf 72'>|</span>
      </span>
     </p>
 
@@ -415,24 +411,23 @@
       <span class='ocrx_word' id='word_1_314' title='bbox 1289 4252 1568 4289; x_wconf 91' lang='eng'>unserem</span>
       <span class='ocrx_word' id='word_1_315' title='bbox 1618 4232 2249 4307; x_wconf 90' lang='eng'>Standardprogramm</span>
       <span class='ocrx_word' id='word_1_316' title='bbox 2295 4231 2765 4288; x_wconf 92' lang='eng'>teilzunehmen.</span>
-      <span class='ocrx_word' id='word_1_317' title='bbox 2918 4306 2921 4308; x_wconf 78' lang='eng'>|</span>
      </span>
     </p>
 
     <p class='ocr_par' id='par_1_8' lang='eng' title="bbox 258 4335 2768 4714">
      <span class='ocr_line' id='line_1_36' title="bbox 258 4335 2768 4412; baseline -0 -20; x_size 77; x_descenders 19; x_ascenders 21">
-      <span class='ocrx_word' id='word_1_318' title='bbox 258 4338 492 4392; x_wconf 74'>‘Dieses</span>
+      <span class='ocrx_word' id='word_1_318' title='bbox 284 4338 492 4392; x_wconf 74'>Dieses</span>
       <span class='ocrx_word' id='word_1_319' title='bbox 519 4335 738 4393; x_wconf 96' lang='deu'>basiert</span>
       <span class='ocrx_word' id='word_1_320' title='bbox 766 4336 872 4393; x_wconf 93'>auf</span>
       <span class='ocrx_word' id='word_1_321' title='bbox 895 4336 1133 4393; x_wconf 92' lang='deu'>eiweiß-</span>
       <span class='ocrx_word' id='word_1_322' title='bbox 1162 4336 1289 4393; x_wconf 92'>und</span>
-      <span class='ocrx_word' id='word_1_323' title='bbox 1315 4336 1790 4412; x_wconf 87'>gemiisereicher</span>
+      <span class='ocrx_word' id='word_1_323' title='bbox 1315 4336 1790 4412; x_wconf 87'>gemüsereicher</span>
       <span class='ocrx_word' id='word_1_324' title='bbox 1819 4339 2004 4393; x_wconf 93'>sowie</span>
       <span class='ocrx_word' id='word_1_325' title='bbox 2031 4335 2768 4411; x_wconf 89'>kohlenhydratreduzier-</span>
      </span>
      <span class='ocr_line' id='line_1_37' title="bbox 284 4439 2768 4516; baseline -0 -19; x_size 76; x_descenders 19; x_ascenders 20">
       <span class='ocrx_word' id='word_1_326' title='bbox 284 4448 370 4497; x_wconf 93'>ter</span>
-      <span class='ocrx_word' id='word_1_327' title='bbox 408 4439 753 4516; x_wconf 88'>Erndhrung</span>
+      <span class='ocrx_word' id='word_1_327' title='bbox 408 4439 753 4516; x_wconf 88'>Ernährung</span>
       <span class='ocrx_word' id='word_1_328' title='bbox 792 4440 1147 4498; x_wconf 89'>verbunden</span>
       <span class='ocrx_word' id='word_1_329' title='bbox 1183 4444 1293 4498; x_wconf 96'>mit</span>
       <span class='ocrx_word' id='word_1_330' title='bbox 1331 4441 1848 4516; x_wconf 96'>Psychotherapie.</span>
@@ -444,7 +439,6 @@
      </span>
      <span class='ocr_line' id='line_1_38' title="bbox 288 4649 845 4714; baseline 0 0; x_size 82.657288; x_descenders 17.657288; x_ascenders 17">
       <span class='ocrx_word' id='word_1_336' title='bbox 288 4666 359 4714; x_wconf 96'>18</span>
-      <span class='ocrx_word' id='word_1_337' title='bbox 843 4649 845 4651; x_wconf 80'>|</span>
      </span>
     </p>
    </div>
