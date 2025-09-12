@@ -26,20 +26,20 @@
       <span class='ocrx_word' id='word_1_9' title='bbox 238 657 389 723; x_wconf 93' lang='eng'>Wie</span>
       <span class='ocrx_word' id='word_1_10' title='bbox 417 657 742 725; x_wconf 92' lang='eng'>schalten</span>
       <span class='ocrx_word' id='word_1_11' title='bbox 772 658 890 725; x_wconf 93' lang='eng'>die</span>
-      <span class='ocrx_word' id='word_1_12' title='bbox 910 658 1438 726; x_wconf 90' lang='eng'>Aminosauren</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 910 658 1438 726; x_wconf 90' lang='eng'>Aminosäuren</span>
       <span class='ocrx_word' id='word_1_13' title='bbox 1471 659 1782 726; x_wconf 91' lang='eng'>unechte</span>
       <span class='ocrx_word' id='word_1_14' title='bbox 1815 659 2247 725; x_wconf 91' lang='eng'>Emotionen</span>
       <span class='ocrx_word' id='word_1_15' title='bbox 2279 677 2415 725; x_wconf 96' lang='eng'>aus</span>
      </span>
-    </p>
-
-    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 235 765 2714 1816">
      <span class='ocr_line' id='line_1_3' title="bbox 241 765 1536 834; baseline 0.001 -3; x_size 90.257744; x_descenders 24.257744; x_ascenders 18">
       <span class='ocrx_word' id='word_1_16' title='bbox 241 765 386 832; x_wconf 93'>und</span>
       <span class='ocrx_word' id='word_1_17' title='bbox 418 766 789 834; x_wconf 92'>erwecken</span>
       <span class='ocrx_word' id='word_1_18' title='bbox 823 767 1033 834; x_wconf 93'>echte</span>
       <span class='ocrx_word' id='word_1_19' title='bbox 1064 766 1536 833; x_wconf 91'>Emotionen?</span>
      </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 235 765 2714 1816">
      <span class='ocr_line' id='line_1_4' title="bbox 238 911 2710 989; baseline 0.001 -21; x_size 76; x_descenders 19; x_ascenders 20">
       <span class='ocrx_word' id='word_1_20' title='bbox 238 914 378 969; x_wconf 96'>Hier</span>
       <span class='ocrx_word' id='word_1_21' title='bbox 404 911 541 987; x_wconf 96'>liegt</span>
@@ -56,7 +56,7 @@
      <span class='ocr_line' id='line_1_5' title="bbox 240 1015 2713 1093; baseline 0 -20; x_size 66; x_descenders 9; x_ascenders 20">
       <span class='ocrx_word' id='word_1_31' title='bbox 240 1015 336 1073; x_wconf 96'>die</span>
       <span class='ocrx_word' id='word_1_32' title='bbox 363 1019 426 1073; x_wconf 93'>in</span>
-      <span class='ocrx_word' id='word_1_33' title='bbox 452 1017 896 1074; x_wconf 37'>eiweiBreicher</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 452 1017 896 1074; x_wconf 37'>eiweißreicher</span>
       <span class='ocrx_word' id='word_1_34' title='bbox 920 1017 1202 1093; x_wconf 95'>Nahrung</span>
       <span class='ocrx_word' id='word_1_35' title='bbox 1227 1021 1341 1075; x_wconf 93'>wie</span>
       <span class='ocrx_word' id='word_1_36' title='bbox 1367 1018 1717 1084; x_wconf 96' lang='deu'>Hähnchen,</span>
@@ -244,7 +244,7 @@
     <p class='ocr_par' id='par_1_4' lang='deu' title="bbox 132 2584 2717 2852">
      <span class='ocr_line' id='line_1_20' title="bbox 132 2584 2716 2660; baseline 0.001 -19; x_size 75; x_descenders 18; x_ascenders 20">
       <span class='ocrx_word' id='word_1_184' title='bbox 132 2584 519 2660; x_wconf 37'>Nahrung</span>
-      <span class='ocrx_word' id='word_1_185' title='bbox 550 2585 640 2642; x_wconf 96' lang='eng'>fiir</span>
+      <span class='ocrx_word' id='word_1_185' title='bbox 550 2585 640 2642; x_wconf 96' lang='eng'>für</span>
       <span class='ocrx_word' id='word_1_186' title='bbox 669 2585 762 2642; x_wconf 96'>Ihr</span>
       <span class='ocrx_word' id='word_1_187' title='bbox 792 2586 1014 2643; x_wconf 96'>Gehirn</span>
       <span class='ocrx_word' id='word_1_188' title='bbox 1045 2589 1120 2643; x_wconf 95' lang='eng'>ist</span>
@@ -282,7 +282,7 @@
      <span class='ocr_line' id='line_1_23' title="bbox 308 2899 2712 2976; baseline -0.001 -20; x_size 76; x_descenders 19; x_ascenders 20">
       <span class='ocrx_word' id='word_1_212' title='bbox 308 2902 416 2956; x_wconf 96'>Die</span>
       <span class='ocrx_word' id='word_1_213' title='bbox 456 2902 581 2956; x_wconf 93'>vier</span>
-      <span class='ocrx_word' id='word_1_214' title='bbox 620 2899 1150 2976; x_wconf 84'>Gefiihlserzeuger</span>
+      <span class='ocrx_word' id='word_1_214' title='bbox 620 2899 1150 2976; x_wconf 84'>Gefühlserzeuger</span>
       <span class='ocrx_word' id='word_1_215' title='bbox 1190 2903 1252 2957; x_wconf 96'>in</span>
       <span class='ocrx_word' id='word_1_216' title='bbox 1292 2900 1482 2958; x_wconf 96' lang='deu'>Ihrem</span>
       <span class='ocrx_word' id='word_1_217' title='bbox 1523 2900 1744 2958; x_wconf 96' lang='deu'>Gehirn</span>
@@ -326,7 +326,7 @@
       <span class='ocrx_word' id='word_1_247' title='bbox 477 3318 665 3375; x_wconf 96' lang='deu'>Effekt</span>
       <span class='ocrx_word' id='word_1_248' title='bbox 705 3319 810 3376; x_wconf 96'>auf</span>
       <span class='ocrx_word' id='word_1_249' title='bbox 846 3319 970 3376; x_wconf 77'>Thre</span>
-      <span class='ocrx_word' id='word_1_250' title='bbox 1011 3319 1405 3394; x_wconf 85'>Gemiitslage,</span>
+      <span class='ocrx_word' id='word_1_250' title='bbox 1011 3319 1405 3394; x_wconf 85'>Gemütslage,</span>
       <span class='ocrx_word' id='word_1_251' title='bbox 1448 3319 1604 3377; x_wconf 93'>stark</span>
       <span class='ocrx_word' id='word_1_252' title='bbox 1642 3319 1933 3394; x_wconf 96' lang='deu'>abhängig</span>
       <span class='ocrx_word' id='word_1_253' title='bbox 1973 3339 2094 3376; x_wconf 96'>von</span>
@@ -453,7 +453,7 @@
       <span class='ocrx_word' id='word_1_343' title='bbox 2209 4469 2312 4526; x_wconf 96'>der</span>
       <span class='ocrx_word' id='word_1_344' title='bbox 2339 4469 2464 4526; x_wconf 96' lang='eng'>Fall</span>
       <span class='ocrx_word' id='word_1_345' title='bbox 2493 4472 2586 4535; x_wconf 96'>ist,</span>
-      <span class='ocrx_word' id='word_1_346' title='bbox 2620 4467 2744 4526; x_wconf 76'>die”</span>
+      <span class='ocrx_word' id='word_1_346' title='bbox 2620 4467 2720 4526; x_wconf 76'>die</span>
      </span>
     </p>
 
