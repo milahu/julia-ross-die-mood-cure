@@ -11,12 +11,6 @@
  <body>
   <div class='ocr_page' id='page_1' title='image "../070-deskew/002.tiff"; bbox 0 0 2950 5088; ppageno 0; scan_res 600 600'>
    <div class='ocr_carea' id='block_1_1' title="bbox 28 438 1595 950">
-    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 28 417 1595 950">
-     <span class='ocr_line' id='line_1_1' title="bbox 28 438 1595 950; baseline 0 0; x_size 592.8421; x_descenders 59.842102; x_ascenders 154">
-      <span class='ocrx_word' id='word_1_1' title='bbox 28 438 30 440; x_wconf 15'>BE</span>
-      <span class='ocrx_word' id='word_1_2' title='bbox 1426 571 1577 950; x_wconf 45'>2</span>
-     </span>
-    </p>
    </div>
   </div>
  </body>
