@@ -146,29 +146,23 @@
      <span class='ocr_line' id='line_1_18' title="bbox 1721 3368 1923 3467; baseline 0.04 -8; x_size 117.88641; x_descenders 26.88641; x_ascenders 31">
       <span class='ocrx_word' id='word_1_98' title='bbox 1721 3368 1807 3446; x_wconf 75' lang='eng'>In</span>
       <span class='ocrx_word' id='word_1_99' title='bbox 1836 3395 1923 3467; x_wconf 75' lang='eng'>24</span>
-     </span>
-     <span class='ocr_line' id='line_1_19' title="bbox 1951 3416 2032 3490; baseline 0.111 -9; x_size 84.225662; x_descenders 19.225664; x_ascenders 22.095804">
-      <span class='ocrx_word' id='word_1_100' title='bbox 1951 3416 2032 3490; x_wconf 96' lang='eng'>St</span>
+      <span class='ocrx_word' id='word_1_100' title='bbox 1951 3416 2294 3548; x_wconf 96' lang='eng'>Stunden</span>
      </span>
      <span class='ocr_line' id='line_1_20' title="bbox 1730 3537 2165 3635; baseline 0.016 -21; x_size 103; x_descenders 26; x_ascenders 25">
-      <span class='ocrx_word' id='word_1_101' title='bbox 1730 3537 1949 3609; x_wconf 0'>‚1x</span>
-      <span class='ocrx_word' id='word_1_102' title='bbox 1979 3541 2097 3621; x_wconf 78' lang='eng'>Sje</span>
-      <span class='ocrx_word' id='word_1_103' title='bbox 2126 3583 2165 3635; x_wconf 76' lang='eng'>a</span>
+      <span class='ocrx_word' id='word_1_101' title='bbox 1648 3478 1949 3597; x_wconf 0'>werden</span>
+      <span class='ocrx_word' id='word_1_102' title='bbox 1979 3539 2097 3621; x_wconf 78' lang='eng'>Sie</span>
+      <span class='ocrx_word' id='word_1_103' title='bbox 2126 3583 2326 3669; x_wconf 76' lang='eng'>erste</span>
      </span>
      <span class='ocr_line' id='line_1_21' title="bbox 1633 3585 2326 3711; baseline 0.019 -32; x_size 71; x_descenders 11; x_ascenders 26">
-      <span class='ocrx_word' id='word_1_104' title='bbox 1633 3585 1939 3711; x_wconf 92'>Wirkun</span>
-      <span class='ocrx_word' id='word_1_105' title='bbox 2135 3591 2326 3693; x_wconf 8'>-Tste</span>
-     </span>
-     <span class='ocr_line' id='line_1_22' title="bbox 1943 3667 2302 3784; baseline -0.003 -24; x_size 58; x_descenders 9; x_ascenders 17">
-      <span class='ocrx_word' id='word_1_106' title='bbox 1943 3667 1994 3740; x_wconf 79' lang='eng'>8</span>
-      <span class='ocrx_word' id='word_1_107' title='bbox 2020 3681 2110 3762; x_wconf 96' lang='eng'>Sp</span>
-      <span class='ocrx_word' id='word_1_108' title='bbox 2119 3699 2249 3771; x_wconf 96' lang='eng'>Ure</span>
-      <span class='ocrx_word' id='word_1_109' title='bbox 2252 3727 2302 3784; x_wconf 73'>N</span>
+      <span class='ocrx_word' id='word_1_104' title='bbox 1633 3585 1999 3742; x_wconf 92'>Wirkung</span>
+      <span class='ocrx_word' id='word_1_107' title='bbox 2020 3681 2303 3786; x_wconf 96' lang='eng'>spüren</span>
      </span>
      <span class='ocr_line' id='line_1_23' title="bbox 579 4417 2573 4486; baseline 0 0; x_size 88; x_descenders 19; x_ascenders 19">
       <span class='ocrx_word' id='word_1_110' title='bbox 579 4433 743 4486; x_wconf 93'>ISBN</span>
       <span class='ocrx_word' id='word_1_111' title='bbox 765 4436 1348 4486; x_wconf 92'>978-3-608-94710-6</span>
-      <span class='ocrx_word' id='word_1_112' title='bbox 2570 4417 2573 4421; x_wconf 79' lang='eng'>|</span>
+     </span>
+     <span class='ocr_line'>
+      <span class='ocrx_word' id='word_1_127' title='bbox 547 4782 1288 4837; x_wconf 26'>9783608947106</span>
      </span>
     </p>
 
@@ -180,9 +174,6 @@
       <span class='ocrx_word' id='word_1_116' title='bbox 2087 4563 2307 4609; x_wconf 92'>gesamten</span>
       <span class='ocrx_word' id='word_1_117' title='bbox 2322 4562 2567 4608; x_wconf 96'>Programm</span>
      </span>
-    </p>
-
-    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 1511 4634 2376 4677">
      <span class='ocr_line' id='line_1_25' title="bbox 1511 4634 2376 4677; baseline -0.002 0; x_size 53.098885; x_descenders 12.098885; x_ascenders 14">
       <span class='ocrx_word' id='word_1_118' title='bbox 1511 4635 1656 4677; x_wconf 96'>finden</span>
       <span class='ocrx_word' id='word_1_119' title='bbox 1671 4637 1734 4677; x_wconf 95'>Sie</span>
@@ -203,7 +194,6 @@
 
     <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 547 4782 2542 4847">
      <span class='ocr_line' id='line_1_27' title="bbox 547 4782 2542 4847; baseline -0.002 -11; x_size 54; x_descenders 12; x_ascenders 14">
-      <span class='ocrx_word' id='word_1_127' title='bbox 547 4782 1288 4837; x_wconf 26'>91783608&quot;947106</span>
       <span class='ocrx_word' id='word_1_128' title='bbox 1511 4799 1771 4847; x_wconf 93'>Programm?</span>
       <span class='ocrx_word' id='word_1_129' title='bbox 1783 4791 2542 4838; x_wconf 91'>www.klett-cotta.de/newsletter</span>
      </span>
