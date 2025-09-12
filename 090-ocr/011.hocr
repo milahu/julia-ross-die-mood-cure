@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../070-deskew/011.tiff"; bbox 0 0 3034 5103; ppageno 0; scan_res 600 600'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 650 1211 2597 1671">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 650 1211 2597 1671">
+     <span class='ocr_line' id='line_1_1' title="bbox 650 1211 1198 1282; baseline -0.007 0; x_size 84.269829; x_descenders 17.269827; x_ascenders 19.002588">
+      <span class='ocrx_word' id='word_1_1' title='bbox 650 1211 1109 1282; x_wconf 95'>SCHRITT</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 1165 1214 1198 1278; x_wconf 96'>1</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 659 1360 2049 1505; baseline -0.004 -27; x_size 146; x_descenders 31; x_ascenders 33">
+      <span class='ocrx_word' id='word_1_3' title='bbox 659 1366 909 1480; x_wconf 92'>Ihre</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 964 1360 2049 1505; x_wconf 88'>Stimmungslage</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 656 1527 2597 1671; baseline -0.005 -20; x_size 144; x_descenders 29; x_ascenders 32">
+      <span class='ocrx_word' id='word_1_5' title='bbox 656 1568 886 1651; x_wconf 96'>aus</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 939 1536 1282 1650; x_wconf 96'>einer</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 1337 1564 1743 1647; x_wconf 96'>neuen</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 1808 1527 2597 1671; x_wconf 96'>Perspektive</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

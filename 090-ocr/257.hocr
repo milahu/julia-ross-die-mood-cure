@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../070-deskew/257.tiff"; bbox 0 0 3075 5127; ppageno 0; scan_res 600 600'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 643 1219 2442 1658">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 643 1219 2442 1658">
+     <span class='ocr_line' id='line_1_1' title="bbox 643 1219 1206 1289; baseline -0.004 0; x_size 83.020187; x_descenders 16.020191; x_ascenders 20.007439">
+      <span class='ocrx_word' id='word_1_1' title='bbox 643 1219 1102 1289; x_wconf 95'>SCHRITT</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 1151 1223 1206 1287; x_wconf 95'>4</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 647 1371 2442 1515; baseline -0.002 -27; x_size 145; x_descenders 28; x_ascenders 35">
+      <span class='ocrx_word' id='word_1_3' title='bbox 647 1371 1251 1515; x_wconf 95'>Spezielle</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 1312 1372 2178 1488; x_wconf 96'>Maßnahmen</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 2235 1407 2442 1486; x_wconf 95'>zur</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 652 1543 1406 1658; baseline 0.003 -2; x_size 142.95454; x_descenders 27.954546; x_ascenders 33">
+      <span class='ocrx_word' id='word_1_6' title='bbox 652 1543 1035 1658; x_wconf 96'>Mood</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 1095 1543 1406 1658; x_wconf 96'>Cure</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

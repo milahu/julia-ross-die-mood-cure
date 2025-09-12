@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../070-deskew/155.tiff"; bbox 0 0 3021 5088; ppageno 0; scan_res 600 600'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 657 1197 2383 1664">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 657 1197 2383 1664">
+     <span class='ocr_line' id='line_1_1' title="bbox 658 1197 1218 1267; baseline -0.002 0; x_size 84.030594; x_descenders 17.030592; x_ascenders 18.68973">
+      <span class='ocrx_word' id='word_1_1' title='bbox 658 1197 1117 1267; x_wconf 95'>SCHRITT</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 1166 1200 1218 1267; x_wconf 96'>3</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 665 1348 2383 1466; baseline -0.001 -2; x_size 143.90707; x_descenders 28.907072; x_ascenders 33">
+      <span class='ocrx_word' id='word_1_3' title='bbox 665 1351 1248 1466; x_wconf 96'>Erstellen</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 1313 1352 1635 1466; x_wconf 93'>Ihres</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 1696 1348 2383 1466; x_wconf 92'>Nährstoff-</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 657 1522 2166 1664; baseline 0.001 -30; x_size 142; x_descenders 29; x_ascenders 31">
+      <span class='ocrx_word' id='word_1_6' title='bbox 657 1522 2166 1664; x_wconf 91'>Therapie-Masterplans</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../070-deskew/097.tiff"; bbox 0 0 3055 5108; ppageno 0; scan_res 600 600'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 56 403 3055 5108">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 231 403 2707 1280">
+     <span class='ocr_line' id='line_1_1' title="bbox 1591 403 2707 473; baseline 0 -14; x_size 70; x_descenders 14; x_ascenders 16">
+      <span class='ocrx_word' id='word_1_1' title='bbox 1591 407 1641 459; x_wconf 94'>4.</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 1671 404 1908 460; x_wconf 95'>Schluss</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 1936 404 2032 460; x_wconf 96'>mit</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 2056 404 2156 460; x_wconf 93'>der</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 2176 403 2707 473; x_wconf 90'>Antriebslosigkeit</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 243 645 2701 722; baseline 0 -18; x_size 77; x_descenders 16; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_6' title='bbox 243 645 386 705; x_wconf 96'>Was</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 410 645 582 705; x_wconf 96'>kann</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 609 646 716 707; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 738 647 1152 722; x_wconf 96'>Verbindung</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 1174 647 1513 708; x_wconf 96'>zwischen</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 1542 646 1778 708; x_wconf 96'>Gehirn</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 1806 647 1948 707; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 1969 646 2398 707; x_wconf 96'>Schilddrüse</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 2421 645 2701 707; x_wconf 96'>stören?</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 232 785 2707 862; baseline 0.001 -21; x_size 76; x_descenders 19; x_ascenders 21">
+      <span class='ocrx_word' id='word_1_15' title='bbox 232 785 357 842; x_wconf 96'>Ihre</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 391 786 779 843; x_wconf 93'>Schilddrüse</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 812 787 1069 844; x_wconf 92'>schüttet</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 1100 791 1249 844; x_wconf 96'>zwei</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 1280 788 1559 862; x_wconf 96'>wichtige</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 1590 791 1891 844; x_wconf 96'>Hormone</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 1924 808 2047 844; x_wconf 95'>aus:</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 2083 790 2248 844; x_wconf 96'>eines</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 2280 787 2445 844; x_wconf 91'>heißt</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 2476 791 2545 858; x_wconf 90'>T,</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 2577 786 2707 843; x_wconf 96'>und</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 233 889 2705 967; baseline 0.001 -21; x_size 76; x_descenders 19; x_ascenders 20">
+      <span class='ocrx_word' id='word_1_26' title='bbox 233 889 336 947; x_wconf 96'>das</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 366 890 581 948; x_wconf 93' lang='eng'>andere</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 608 895 691 963; x_wconf 52'>T,.</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 721 895 835 948; x_wconf 93' lang='eng'>Das</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 869 895 982 948; x_wconf 90'>»T«</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 1015 892 1168 949; x_wconf 96'>steht</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 1195 892 1287 949; x_wconf 96'>für</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 1315 892 1411 949; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 1438 895 1835 949; x_wconf 96'>Aminosäure</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 1863 895 2108 967; x_wconf 96'>Tyrosin</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 2135 892 2262 949; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 2291 892 2388 949; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 2416 891 2644 948; x_wconf 96'>Ziffern</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 2671 900 2705 948; x_wconf 96'>4</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 231 994 2707 1071; baseline 0 -20; x_size 75; x_descenders 18; x_ascenders 21">
+      <span class='ocrx_word' id='word_1_40' title='bbox 231 994 357 1051; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 384 1003 412 1052; x_wconf 96'>3</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 441 995 531 1052; x_wconf 96'>für</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 556 996 650 1053; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 676 996 908 1053; x_wconf 96'>Anzahl</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 934 996 1036 1053; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 1058 997 1363 1053; x_wconf 96'>Moleküle</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 1389 997 1493 1054; x_wconf 96'>des</span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 1517 997 1801 1053; x_wconf 96'>Minerals</span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 1824 997 1930 1067; x_wconf 96'>Jod</span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 1954 1000 2017 1053; x_wconf 96'>in</span>
+      <span class='ocrx_word' id='word_1_51' title='bbox 2042 997 2180 1053; x_wconf 95'>dem</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 2203 996 2540 1071; x_wconf 93'>jeweiligen</span>
+      <span class='ocrx_word' id='word_1_53' title='bbox 2564 999 2707 1053; x_wconf 92'>Hor-</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 231 1100 2706 1175; baseline 0 -19; x_size 74; x_descenders 17; x_ascenders 20">
+      <span class='ocrx_word' id='word_1_54' title='bbox 231 1119 389 1156; x_wconf 93'>mon.</span>
+      <span class='ocrx_word' id='word_1_55' title='bbox 424 1103 597 1157; x_wconf 95'>Diese</span>
+      <span class='ocrx_word' id='word_1_56' title='bbox 628 1100 848 1157; x_wconf 95'>beiden</span>
+      <span class='ocrx_word' id='word_1_57' title='bbox 880 1104 1180 1158; x_wconf 96'>Hormone</span>
+      <span class='ocrx_word' id='word_1_58' title='bbox 1215 1110 1416 1158; x_wconf 96'>setzen</span>
+      <span class='ocrx_word' id='word_1_59' title='bbox 1445 1101 1865 1158; x_wconf 96'>buchstäblich</span>
+      <span class='ocrx_word' id='word_1_60' title='bbox 1897 1101 2027 1175; x_wconf 96'>jede</span>
+      <span class='ocrx_word' id='word_1_61' title='bbox 2061 1100 2223 1158; x_wconf 96'>Zelle</span>
+      <span class='ocrx_word' id='word_1_62' title='bbox 2256 1101 2414 1157; x_wconf 96'>Ihres</span>
+      <span class='ocrx_word' id='word_1_63' title='bbox 2448 1104 2706 1175; x_wconf 96'>Körpers</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 231 1203 2440 1280; baseline 0 -20; x_size 76; x_descenders 19; x_ascenders 21">
+      <span class='ocrx_word' id='word_1_64' title='bbox 231 1203 357 1260; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_65' title='bbox 382 1204 632 1262; x_wconf 96'>Gehirns</span>
+      <span class='ocrx_word' id='word_1_66' title='bbox 659 1208 721 1261; x_wconf 96'>in</span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 745 1208 925 1280; x_wconf 96'>Gang,</span>
+      <span class='ocrx_word' id='word_1_68' title='bbox 952 1205 1158 1262; x_wconf 96'>indem</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 1183 1209 1268 1262; x_wconf 96'>sie</span>
+      <span class='ocrx_word' id='word_1_70' title='bbox 1295 1206 1477 1262; x_wconf 96'>deren</span>
+      <span class='ocrx_word' id='word_1_71' title='bbox 1499 1205 1885 1280; x_wconf 96'>genetischen</span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 1910 1205 2072 1262; x_wconf 96'>Code</span>
+      <span class='ocrx_word' id='word_1_73' title='bbox 2098 1205 2440 1262; x_wconf 95'>aktivieren.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='deu' title="bbox 229 1308 2711 2308">
+     <span class='ocr_line' id='line_1_8' title="bbox 304 1308 2707 1385; baseline 0 -21; x_size 75; x_descenders 18; x_ascenders 20">
+      <span class='ocrx_word' id='word_1_74' title='bbox 304 1311 366 1364; x_wconf 96'>In</span>
+      <span class='ocrx_word' id='word_1_75' title='bbox 399 1308 517 1365; x_wconf 93'>den</span>
+      <span class='ocrx_word' id='word_1_76' title='bbox 548 1309 892 1366; x_wconf 91'>Hirnzellen</span>
+      <span class='ocrx_word' id='word_1_77' title='bbox 922 1310 1185 1367; x_wconf 96'>wandelt</span>
+      <span class='ocrx_word' id='word_1_78' title='bbox 1215 1310 1341 1367; x_wconf 96'>Ihre</span>
+      <span class='ocrx_word' id='word_1_79' title='bbox 1376 1310 1765 1367; x_wconf 93'>Schilddrüse</span>
+      <span class='ocrx_word' id='word_1_80' title='bbox 1798 1314 1865 1381; x_wconf 91'>T,</span>
+      <span class='ocrx_word' id='word_1_81' title='bbox 1900 1310 2027 1377; x_wconf 92'>(das</span>
+      <span class='ocrx_word' id='word_1_82' title='bbox 2061 1313 2362 1385; x_wconf 92'>passivere</span>
+      <span class='ocrx_word' id='word_1_83' title='bbox 2397 1309 2707 1385; x_wconf 92'>Speicher-</span>
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 230 1412 2708 1489; baseline 0 -20; x_size 68; x_descenders 11; x_ascenders 21">
+      <span class='ocrx_word' id='word_1_84' title='bbox 230 1412 505 1480; x_wconf 92'>hormon)</span>
+      <span class='ocrx_word' id='word_1_85' title='bbox 543 1417 605 1470; x_wconf 91'>in</span>
+      <span class='ocrx_word' id='word_1_86' title='bbox 639 1418 705 1486; x_wconf 91'>T,</span>
+      <span class='ocrx_word' id='word_1_87' title='bbox 732 1414 858 1481; x_wconf 93'>(das</span>
+      <span class='ocrx_word' id='word_1_88' title='bbox 894 1414 1481 1482; x_wconf 92'>Aktivatorhormon)</span>
+      <span class='ocrx_word' id='word_1_89' title='bbox 1517 1435 1634 1471; x_wconf 96'>um.</span>
+      <span class='ocrx_word' id='word_1_90' title='bbox 1672 1415 1953 1471; x_wconf 96'>Dadurch</span>
+      <span class='ocrx_word' id='word_1_91' title='bbox 1987 1415 2231 1471; x_wconf 96'>werden</span>
+      <span class='ocrx_word' id='word_1_92' title='bbox 2266 1434 2406 1471; x_wconf 96'>zum</span>
+      <span class='ocrx_word' id='word_1_93' title='bbox 2440 1413 2708 1489; x_wconf 96'>Beispiel</span>
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 232 1517 2708 1595; baseline 0.001 -21; x_size 66; x_descenders 9; x_ascenders 21">
+      <span class='ocrx_word' id='word_1_94' title='bbox 232 1517 328 1574; x_wconf 93'>die</span>
+      <span class='ocrx_word' id='word_1_95' title='bbox 355 1518 745 1576; x_wconf 92'>schlafenden</span>
+      <span class='ocrx_word' id='word_1_96' title='bbox 770 1523 906 1576; x_wconf 92'>Kats</span>
+      <span class='ocrx_word' id='word_1_97' title='bbox 933 1540 1008 1576; x_wconf 96'>zu</span>
+      <span class='ocrx_word' id='word_1_98' title='bbox 1034 1523 1195 1576; x_wconf 96'>einer</span>
+      <span class='ocrx_word' id='word_1_99' title='bbox 1221 1519 1471 1585; x_wconf 96'>starken,</span>
+      <span class='ocrx_word' id='word_1_100' title='bbox 1498 1520 1825 1595; x_wconf 95'>gesunden,</span>
+      <span class='ocrx_word' id='word_1_101' title='bbox 1852 1522 2295 1594; x_wconf 93'>Depressionen</span>
+      <span class='ocrx_word' id='word_1_102' title='bbox 2318 1518 2708 1594; x_wconf 92'>bekämpfen-</span>
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 232 1622 2709 1697; baseline 0.001 -19; x_size 73; x_descenders 16; x_ascenders 21">
+      <span class='ocrx_word' id='word_1_103' title='bbox 232 1622 348 1679; x_wconf 96'>den</span>
+      <span class='ocrx_word' id='word_1_104' title='bbox 373 1623 547 1679; x_wconf 96'>Kraft.</span>
+      <span class='ocrx_word' id='word_1_105' title='bbox 573 1627 760 1680; x_wconf 96' lang='eng'>Wenn</span>
+      <span class='ocrx_word' id='word_1_106' title='bbox 785 1624 881 1680; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_107' title='bbox 908 1624 1297 1681; x_wconf 96'>Schilddrüse</span>
+      <span class='ocrx_word' id='word_1_108' title='bbox 1319 1624 1645 1681; x_wconf 96'>besonders</span>
+      <span class='ocrx_word' id='word_1_109' title='bbox 1669 1624 2066 1681; x_wconf 96'>hinsichtlich</span>
+      <span class='ocrx_word' id='word_1_110' title='bbox 2092 1624 2194 1681; x_wconf 93' lang='eng'>der</span>
+      <span class='ocrx_word' id='word_1_111' title='bbox 2217 1624 2709 1697; x_wconf 92' lang='eng'>T,-Aktivierung</span>
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 229 1726 2708 1802; baseline 0.001 -20; x_size 66; x_descenders 9; x_ascenders 20">
+      <span class='ocrx_word' id='word_1_112' title='bbox 229 1726 397 1783; x_wconf 95'>nicht</span>
+      <span class='ocrx_word' id='word_1_113' title='bbox 439 1727 649 1802; x_wconf 96'>richtig</span>
+      <span class='ocrx_word' id='word_1_114' title='bbox 695 1727 1099 1793; x_wconf 95'>funktioniert,</span>
+      <span class='ocrx_word' id='word_1_115' title='bbox 1145 1728 1388 1785; x_wconf 95'>können</span>
+      <span class='ocrx_word' id='word_1_116' title='bbox 1434 1728 1530 1785; x_wconf 93'>die</span>
+      <span class='ocrx_word' id='word_1_117' title='bbox 1575 1731 2138 1785; x_wconf 92'>Neurotransmitter</span>
+      <span class='ocrx_word' id='word_1_118' title='bbox 2182 1731 2265 1784; x_wconf 96'>im</span>
+      <span class='ocrx_word' id='word_1_119' title='bbox 2309 1727 2534 1785; x_wconf 95'>Gehirn</span>
+      <span class='ocrx_word' id='word_1_120' title='bbox 2579 1727 2708 1784; x_wconf 95'>Ihre</span>
+     </span>
+     <span class='ocr_line' id='line_1_13' title="bbox 232 1831 2708 1906; baseline -0.001 -19; x_size 75; x_descenders 18; x_ascenders 20">
+      <span class='ocrx_word' id='word_1_121' title='bbox 232 1833 645 1906; x_wconf 96'>Stimmungen</span>
+      <span class='ocrx_word' id='word_1_122' title='bbox 689 1832 855 1889; x_wconf 96'>nicht</span>
+      <span class='ocrx_word' id='word_1_123' title='bbox 899 1832 1139 1889; x_wconf 96'>effektiv</span>
+      <span class='ocrx_word' id='word_1_124' title='bbox 1182 1833 1424 1889; x_wconf 96'>ändern.</span>
+      <span class='ocrx_word' id='word_1_125' title='bbox 1471 1832 1784 1889; x_wconf 95'>Vielleicht</span>
+      <span class='ocrx_word' id='word_1_126' title='bbox 1827 1832 2030 1889; x_wconf 95'>leiden</span>
+      <span class='ocrx_word' id='word_1_127' title='bbox 2076 1835 2172 1889; x_wconf 95'>Sie</span>
+      <span class='ocrx_word' id='word_1_128' title='bbox 2217 1852 2291 1889; x_wconf 95'>an</span>
+      <span class='ocrx_word' id='word_1_129' title='bbox 2336 1832 2454 1889; x_wconf 92'>den</span>
+      <span class='ocrx_word' id='word_1_130' title='bbox 2502 1831 2708 1888; x_wconf 91'>»Bla«-</span>
+     </span>
+     <span class='ocr_line' id='line_1_14' title="bbox 230 1935 2707 2012; baseline 0 -20; x_size 75; x_descenders 18; x_ascenders 21">
+      <span class='ocrx_word' id='word_1_131' title='bbox 230 1935 544 2002; x_wconf 96'>Gefühlen,</span>
+      <span class='ocrx_word' id='word_1_132' title='bbox 572 1937 645 1993; x_wconf 96' lang='eng'>da</span>
+      <span class='ocrx_word' id='word_1_133' title='bbox 670 1936 766 1994; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_134' title='bbox 789 1937 1222 1994; x_wconf 96'>Nervenzellen</span>
+      <span class='ocrx_word' id='word_1_135' title='bbox 1245 1937 1403 1994; x_wconf 96'>Ihres</span>
+      <span class='ocrx_word' id='word_1_136' title='bbox 1428 1937 1678 1995; x_wconf 96'>Gehirns</span>
+      <span class='ocrx_word' id='word_1_137' title='bbox 1705 1937 1863 1994; x_wconf 96'>ohne</span>
+      <span class='ocrx_word' id='word_1_138' title='bbox 1886 1937 2202 2012; x_wconf 91'>genügend</span>
+      <span class='ocrx_word' id='word_1_139' title='bbox 2225 1941 2292 2009; x_wconf 90' lang='eng'>T,</span>
+      <span class='ocrx_word' id='word_1_140' title='bbox 2311 1937 2415 1994; x_wconf 96'>das</span>
+      <span class='ocrx_word' id='word_1_141' title='bbox 2439 1940 2707 2012; x_wconf 96'>Tyrosin,</span>
+     </span>
+     <span class='ocr_line' id='line_1_15' title="bbox 232 2040 2709 2107; baseline 0 -10; x_size 66; x_descenders 9; x_ascenders 20">
+      <span class='ocrx_word' id='word_1_142' title='bbox 232 2040 335 2097; x_wconf 96'>das</span>
+      <span class='ocrx_word' id='word_1_143' title='bbox 368 2043 464 2097; x_wconf 96'>Sie</span>
+      <span class='ocrx_word' id='word_1_144' title='bbox 495 2041 876 2107; x_wconf 96'>aufnehmen,</span>
+      <span class='ocrx_word' id='word_1_145' title='bbox 908 2042 1075 2099; x_wconf 96'>nicht</span>
+      <span class='ocrx_word' id='word_1_146' title='bbox 1104 2045 1166 2098; x_wconf 93'>in</span>
+      <span class='ocrx_word' id='word_1_147' title='bbox 1193 2042 1525 2099; x_wconf 91'>belebende</span>
+      <span class='ocrx_word' id='word_1_148' title='bbox 1555 2046 1690 2099; x_wconf 93'>Kats</span>
+      <span class='ocrx_word' id='word_1_149' title='bbox 1721 2042 2114 2099; x_wconf 96'>umwandeln</span>
+      <span class='ocrx_word' id='word_1_150' title='bbox 2143 2042 2403 2098; x_wconf 93'>können.</span>
+      <span class='ocrx_word' id='word_1_151' title='bbox 2436 2041 2709 2098; x_wconf 92'>Tatsäch-</span>
+     </span>
+     <span class='ocr_line' id='line_1_16' title="bbox 230 2144 2711 2221; baseline 0 -20; x_size 76; x_descenders 19; x_ascenders 20">
+      <span class='ocrx_word' id='word_1_152' title='bbox 230 2144 352 2201; x_wconf 96'>lich</span>
+      <span class='ocrx_word' id='word_1_153' title='bbox 384 2145 689 2202; x_wconf 96'>enthalten</span>
+      <span class='ocrx_word' id='word_1_154' title='bbox 721 2146 817 2203; x_wconf 93'>die</span>
+      <span class='ocrx_word' id='word_1_155' title='bbox 848 2149 1299 2221; x_wconf 92'>Hirnregionen,</span>
+      <span class='ocrx_word' id='word_1_156' title='bbox 1334 2146 1430 2203; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_157' title='bbox 1464 2146 1568 2203; x_wconf 96'>das</span>
+      <span class='ocrx_word' id='word_1_158' title='bbox 1600 2149 1810 2203; x_wconf 92'>meiste</span>
+      <span class='ocrx_word' id='word_1_159' title='bbox 1842 2150 1908 2218; x_wconf 91'>T,</span>
+      <span class='ocrx_word' id='word_1_160' title='bbox 1942 2146 2248 2203; x_wconf 96'>enthalten</span>
+      <span class='ocrx_word' id='word_1_161' title='bbox 2280 2146 2517 2211; x_wconf 95'>sollten,</span>
+      <span class='ocrx_word' id='word_1_162' title='bbox 2552 2145 2711 2203; x_wconf 96'>auch</span>
+     </span>
+     <span class='ocr_line' id='line_1_17' title="bbox 232 2249 1241 2308; baseline 0.002 -2; x_size 75.753487; x_descenders 18.753489; x_ascenders 20">
+      <span class='ocrx_word' id='word_1_163' title='bbox 232 2249 327 2306; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_164' title='bbox 352 2249 601 2307; x_wconf 93'>höchste</span>
+      <span class='ocrx_word' id='word_1_165' title='bbox 627 2254 1241 2308; x_wconf 91'>Kat-Konzentration.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='deu' title="bbox 228 2354 2712 2832">
+     <span class='ocr_line' id='line_1_18' title="bbox 303 2354 2709 2430; baseline 0 -19; x_size 75; x_descenders 18; x_ascenders 21">
+      <span class='ocrx_word' id='word_1_166' title='bbox 303 2354 477 2411; x_wconf 95'>Ohne</span>
+      <span class='ocrx_word' id='word_1_167' title='bbox 507 2355 902 2412; x_wconf 93'>ausreichend</span>
+      <span class='ocrx_word' id='word_1_168' title='bbox 930 2360 996 2427; x_wconf 87'>T,</span>
+      <span class='ocrx_word' id='word_1_169' title='bbox 1015 2356 1258 2413; x_wconf 96'>können</span>
+      <span class='ocrx_word' id='word_1_170' title='bbox 1286 2356 1412 2413; x_wconf 93'>Ihre</span>
+      <span class='ocrx_word' id='word_1_171' title='bbox 1441 2356 1787 2413; x_wconf 91'>Hirnzellen</span>
+      <span class='ocrx_word' id='word_1_172' title='bbox 1815 2356 1983 2413; x_wconf 95'>nicht</span>
+      <span class='ocrx_word' id='word_1_173' title='bbox 2011 2376 2123 2413; x_wconf 95'>nur</span>
+      <span class='ocrx_word' id='word_1_174' title='bbox 2151 2355 2319 2412; x_wconf 96'>nicht</span>
+      <span class='ocrx_word' id='word_1_175' title='bbox 2346 2375 2540 2430; x_wconf 93'>genug</span>
+      <span class='ocrx_word' id='word_1_176' title='bbox 2569 2359 2709 2412; x_wconf 92'>Kats</span>
+     </span>
+     <span class='ocr_line' id='line_1_19' title="bbox 230 2459 2710 2536; baseline 0 -21; x_size 76; x_descenders 19; x_ascenders 21">
+      <span class='ocrx_word' id='word_1_177' title='bbox 230 2459 643 2533; x_wconf 95'>produzieren,</span>
+      <span class='ocrx_word' id='word_1_178' title='bbox 676 2460 937 2517; x_wconf 96'>sondern</span>
+      <span class='ocrx_word' id='word_1_179' title='bbox 968 2460 1121 2517; x_wconf 96'>auch</span>
+      <span class='ocrx_word' id='word_1_180' title='bbox 1150 2461 1317 2517; x_wconf 96'>nicht</span>
+      <span class='ocrx_word' id='word_1_181' title='bbox 1345 2481 1537 2536; x_wconf 96'>genug</span>
+      <span class='ocrx_word' id='word_1_182' title='bbox 1567 2461 1783 2518; x_wconf 96'>andere</span>
+      <span class='ocrx_word' id='word_1_183' title='bbox 1815 2460 2288 2517; x_wconf 93'>entscheidende</span>
+      <span class='ocrx_word' id='word_1_184' title='bbox 2318 2464 2710 2517; x_wconf 92'>Neurotrans-</span>
+     </span>
+     <span class='ocr_line' id='line_1_20' title="bbox 229 2564 2710 2640; baseline 0 -20; x_size 73; x_descenders 19; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_185' title='bbox 229 2567 424 2620; x_wconf 92' lang='eng'>mitter</span>
+      <span class='ocrx_word' id='word_1_186' title='bbox 443 2566 558 2621; x_wconf 96' lang='eng'>wie</span>
+      <span class='ocrx_word' id='word_1_187' title='bbox 581 2567 912 2621; x_wconf 96' lang='eng'>Serotonin.</span>
+      <span class='ocrx_word' id='word_1_188' title='bbox 935 2568 1123 2621; x_wconf 96'>Wenn</span>
+      <span class='ocrx_word' id='word_1_189' title='bbox 1144 2565 1489 2640; x_wconf 93'>irgendeine</span>
+      <span class='ocrx_word' id='word_1_190' title='bbox 1511 2568 2054 2640; x_wconf 91' lang='eng'>Symptomgruppe</span>
+      <span class='ocrx_word' id='word_1_191' title='bbox 2077 2564 2181 2621; x_wconf 93' lang='eng'>des</span>
+      <span class='ocrx_word' id='word_1_192' title='bbox 2205 2567 2710 2639; x_wconf 91'>Stimmungstyp-</span>
+     </span>
+     <span class='ocr_line' id='line_1_21' title="bbox 229 2668 2712 2743; baseline 0 -19; x_size 75; x_descenders 18; x_ascenders 21">
+      <span class='ocrx_word' id='word_1_193' title='bbox 229 2668 628 2743; x_wconf 96'>Fragebogens</span>
+      <span class='ocrx_word' id='word_1_194' title='bbox 660 2669 765 2726; x_wconf 96' lang='eng'>auf</span>
+      <span class='ocrx_word' id='word_1_195' title='bbox 792 2672 888 2726; x_wconf 92' lang='eng'>Sie</span>
+      <span class='ocrx_word' id='word_1_196' title='bbox 920 2669 1159 2735; x_wconf 96'>zutrifft,</span>
+      <span class='ocrx_word' id='word_1_197' title='bbox 1194 2669 1290 2726; x_wconf 93' lang='eng'>die</span>
+      <span class='ocrx_word' id='word_1_198' title='bbox 1321 2673 1762 2726; x_wconf 96'>Aminosäuren</span>
+      <span class='ocrx_word' id='word_1_199' title='bbox 1794 2669 1981 2726; x_wconf 96'>Ihnen</span>
+      <span class='ocrx_word' id='word_1_200' title='bbox 2013 2669 2149 2726; x_wconf 96' lang='eng'>aber</span>
+      <span class='ocrx_word' id='word_1_201' title='bbox 2178 2669 2346 2726; x_wconf 93' lang='eng'>nicht</span>
+      <span class='ocrx_word' id='word_1_202' title='bbox 2376 2669 2600 2734; x_wconf 96'>helfen,</span>
+      <span class='ocrx_word' id='word_1_203' title='bbox 2635 2672 2712 2726; x_wconf 96' lang='eng'>ist</span>
+     </span>
+     <span class='ocr_line' id='line_1_22' title="bbox 228 2772 1964 2832; baseline 0.001 -3; x_size 75.246635; x_descenders 18.246637; x_ascenders 21">
+      <span class='ocrx_word' id='word_1_204' title='bbox 228 2772 952 2831; x_wconf 85' lang='eng'>hochstwahrscheinlich</span>
+      <span class='ocrx_word' id='word_1_205' title='bbox 976 2774 1102 2831; x_wconf 96'>Ihre</span>
+      <span class='ocrx_word' id='word_1_206' title='bbox 1130 2774 1520 2832; x_wconf 96'>Schilddrüse</span>
+      <span class='ocrx_word' id='word_1_207' title='bbox 1547 2774 1649 2831; x_wconf 95' lang='eng'>das</span>
+      <span class='ocrx_word' id='word_1_208' title='bbox 1674 2774 1964 2831; x_wconf 95' lang='eng'>Problem.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_4' lang='deu' title="bbox 56 2878 2713 2954">
+     <span class='ocr_line' id='line_1_23' title="bbox 56 2878 2713 2954; baseline 0 -20; x_size 76; x_descenders 19; x_ascenders 20">
+      <span class='ocrx_word' id='word_1_209' title='bbox 56 2898 65 2908; x_wconf 71'>\</span>
+      <span class='ocrx_word' id='word_1_210' title='bbox 301 2878 735 2935; x_wconf 96'>Verschiedene</span>
+      <span class='ocrx_word' id='word_1_211' title='bbox 786 2882 973 2954; x_wconf 96'>Dinge</span>
+      <span class='ocrx_word' id='word_1_212' title='bbox 1023 2879 1265 2936; x_wconf 96'>können</span>
+      <span class='ocrx_word' id='word_1_213' title='bbox 1317 2882 1450 2936; x_wconf 96'>eine</span>
+      <span class='ocrx_word' id='word_1_214' title='bbox 1503 2879 1762 2954; x_wconf 96'>perfekte</span>
+      <span class='ocrx_word' id='word_1_215' title='bbox 1813 2879 2195 2954; x_wconf 96'>Verbindung</span>
+      <span class='ocrx_word' id='word_1_216' title='bbox 2246 2878 2555 2936; x_wconf 96'>zwischen</span>
+      <span class='ocrx_word' id='word_1_217' title='bbox 2608 2878 2713 2935; x_wconf 96'>der</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_5' lang='deu' title="bbox 227 2982 2713 3791">
+     <span class='ocr_line' id='line_1_24' title="bbox 230 2982 2712 3058; baseline 0 -20; x_size 74; x_descenders 18; x_ascenders 20">
+      <span class='ocrx_word' id='word_1_218' title='bbox 230 2982 621 3039; x_wconf 96'>Schilddrüse</span>
+      <span class='ocrx_word' id='word_1_219' title='bbox 654 2983 781 3040; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_220' title='bbox 816 2983 954 3040; x_wconf 96'>dem</span>
+      <span class='ocrx_word' id='word_1_221' title='bbox 987 2984 1209 3040; x_wconf 96'>Gehirn</span>
+      <span class='ocrx_word' id='word_1_222' title='bbox 1240 2984 1592 3040; x_wconf 96'>behindern.</span>
+      <span class='ocrx_word' id='word_1_223' title='bbox 1632 2984 1907 3040; x_wconf 96'>Schauen</span>
+      <span class='ocrx_word' id='word_1_224' title='bbox 1940 2986 2049 3040; x_wconf 96'>wir</span>
+      <span class='ocrx_word' id='word_1_225' title='bbox 2082 3004 2196 3040; x_wconf 96'>uns</span>
+      <span class='ocrx_word' id='word_1_226' title='bbox 2233 2983 2329 3040; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_227' title='bbox 2363 2982 2712 3058; x_wconf 96'>möglichen</span>
+     </span>
+     <span class='ocr_line' id='line_1_25' title="bbox 228 3087 1107 3145; baseline 0.001 -2; x_size 75.753487; x_descenders 18.753489; x_ascenders 20">
+      <span class='ocrx_word' id='word_1_228' title='bbox 228 3087 535 3143; x_wconf 96'>Ursachen</span>
+      <span class='ocrx_word' id='word_1_229' title='bbox 559 3090 642 3144; x_wconf 96'>im</span>
+      <span class='ocrx_word' id='word_1_230' title='bbox 664 3087 992 3145; x_wconf 96'>Einzelnen</span>
+      <span class='ocrx_word' id='word_1_231' title='bbox 1017 3108 1107 3144; x_wconf 95'>an.</span>
+     </span>
+     <span class='ocr_line' id='line_1_26' title="bbox 231 3296 2713 3372; baseline 0 -20; x_size 75; x_descenders 18; x_ascenders 21">
+      <span class='ocrx_word' id='word_1_232' title='bbox 231 3298 398 3366; x_wconf 96'>Liegt</span>
+      <span class='ocrx_word' id='word_1_233' title='bbox 430 3314 501 3353; x_wconf 96' lang='eng'>es</span>
+      <span class='ocrx_word' id='word_1_234' title='bbox 536 3314 613 3353; x_wconf 96' lang='eng'>an</span>
+      <span class='ocrx_word' id='word_1_235' title='bbox 649 3300 814 3354; x_wconf 95'>Ihren</span>
+      <span class='ocrx_word' id='word_1_236' title='bbox 852 3299 1103 3355; x_wconf 93'>Genen?</span>
+      <span class='ocrx_word' id='word_1_237' title='bbox 1130 3332 1170 3337; x_wconf 93' lang='eng'>—</span>
+      <span class='ocrx_word' id='word_1_238' title='bbox 1204 3301 1391 3354; x_wconf 96'>Wenn</span>
+      <span class='ocrx_word' id='word_1_239' title='bbox 1431 3300 1527 3354; x_wconf 96'>Sie</span>
+      <span class='ocrx_word' id='word_1_240' title='bbox 1567 3301 1698 3354; x_wconf 96'>eine</span>
+      <span class='ocrx_word' id='word_1_241' title='bbox 1737 3297 2040 3372; x_wconf 96'>langsame</span>
+      <span class='ocrx_word' id='word_1_242' title='bbox 2081 3297 2474 3370; x_wconf 96'>Schilddrüse</span>
+      <span class='ocrx_word' id='word_1_243' title='bbox 2512 3296 2713 3372; x_wconf 96'>geerbt</span>
+     </span>
+     <span class='ocr_line' id='line_1_27' title="bbox 227 3400 2711 3476; baseline 0 -20; x_size 74; x_descenders 18; x_ascenders 20">
+      <span class='ocrx_word' id='word_1_244' title='bbox 227 3400 440 3465; x_wconf 96'>haben,</span>
+      <span class='ocrx_word' id='word_1_245' title='bbox 464 3401 616 3458; x_wconf 96'>wird</span>
+      <span class='ocrx_word' id='word_1_246' title='bbox 639 3401 793 3458; x_wconf 96'>auch</span>
+      <span class='ocrx_word' id='word_1_247' title='bbox 815 3402 907 3458; x_wconf 96'>Ihr</span>
+      <span class='ocrx_word' id='word_1_248' title='bbox 929 3402 1151 3458; x_wconf 95'>Gehirn</span>
+      <span class='ocrx_word' id='word_1_249' title='bbox 1174 3422 1524 3458; x_wconf 96'>zusammen</span>
+      <span class='ocrx_word' id='word_1_250' title='bbox 1546 3406 1652 3458; x_wconf 96'>mit</span>
+      <span class='ocrx_word' id='word_1_251' title='bbox 1675 3402 1814 3458; x_wconf 96' lang='eng'>dem</span>
+      <span class='ocrx_word' id='word_1_252' title='bbox 1836 3406 1973 3458; x_wconf 96'>Rest</span>
+      <span class='ocrx_word' id='word_1_253' title='bbox 1995 3402 2153 3458; x_wconf 96'>Ihres</span>
+      <span class='ocrx_word' id='word_1_254' title='bbox 2177 3406 2431 3476; x_wconf 93'>Körpers</span>
+      <span class='ocrx_word' id='word_1_255' title='bbox 2456 3401 2711 3458; x_wconf 89' lang='eng'>schwer-</span>
+     </span>
+     <span class='ocr_line' id='line_1_28' title="bbox 228 3504 2713 3581; baseline 0 -20; x_size 76; x_descenders 19; x_ascenders 20">
+      <span class='ocrx_word' id='word_1_256' title='bbox 228 3504 390 3580; x_wconf 96'>fällig</span>
+      <span class='ocrx_word' id='word_1_257' title='bbox 416 3505 675 3562; x_wconf 95'>werden.</span>
+      <span class='ocrx_word' id='word_1_258' title='bbox 707 3509 818 3563; x_wconf 96'>Hat</span>
+      <span class='ocrx_word' id='word_1_259' title='bbox 843 3506 970 3563; x_wconf 95'>Ihre</span>
+      <span class='ocrx_word' id='word_1_260' title='bbox 997 3510 1216 3563; x_wconf 96'>Mutter</span>
+      <span class='ocrx_word' id='word_1_261' title='bbox 1243 3506 1386 3563; x_wconf 96'>oder</span>
+      <span class='ocrx_word' id='word_1_262' title='bbox 1413 3506 1720 3581; x_wconf 96'>irgendein</span>
+      <span class='ocrx_word' id='word_1_263' title='bbox 1748 3506 1997 3563; x_wconf 96'>anderer</span>
+      <span class='ocrx_word' id='word_1_264' title='bbox 2022 3506 2400 3563; x_wconf 96'>Verwandter</span>
+      <span class='ocrx_word' id='word_1_265' title='bbox 2428 3505 2526 3562; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_266' title='bbox 2556 3505 2713 3562; x_wconf 96'>oben</span>
+     </span>
+     <span class='ocr_line' id='line_1_29' title="bbox 228 3609 2713 3686; baseline 0 -20; x_size 76; x_descenders 19; x_ascenders 20">
+      <span class='ocrx_word' id='word_1_267' title='bbox 228 3609 641 3685; x_wconf 96'>aufgelisteten</span>
+      <span class='ocrx_word' id='word_1_268' title='bbox 692 3613 1040 3686; x_wconf 96'>Symptome</span>
+      <span class='ocrx_word' id='word_1_269' title='bbox 1090 3614 1252 3668; x_wconf 92'>einer</span>
+      <span class='ocrx_word' id='word_1_270' title='bbox 1303 3611 2198 3668; x_wconf 91'>Schilddrüsenunterfunktion</span>
+      <span class='ocrx_word' id='word_1_271' title='bbox 2249 3610 2392 3668; x_wconf 96'>oder</span>
+      <span class='ocrx_word' id='word_1_272' title='bbox 2439 3630 2563 3667; x_wconf 96'>war</span>
+      <span class='ocrx_word' id='word_1_273' title='bbox 2612 3613 2713 3667; x_wconf 96'>ein</span>
+     </span>
+     <span class='ocr_line' id='line_1_30' title="bbox 227 3714 1670 3791; baseline 0.001 -21; x_size 76; x_descenders 19; x_ascenders 21">
+      <span class='ocrx_word' id='word_1_274' title='bbox 227 3714 793 3790; x_wconf 95'>Familienmitglied</span>
+      <span class='ocrx_word' id='word_1_275' title='bbox 819 3715 1135 3790; x_wconf 96'>deswegen</span>
+      <span class='ocrx_word' id='word_1_276' title='bbox 1160 3719 1223 3772; x_wconf 96'>in</span>
+      <span class='ocrx_word' id='word_1_277' title='bbox 1247 3716 1670 3791; x_wconf 96'>Behandlung?</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_6' lang='deu' title="bbox 225 3819 2715 4523">
+     <span class='ocr_line' id='line_1_31' title="bbox 300 3819 2712 3876; baseline 0 -1; x_size 74.246635; x_descenders 18.246637; x_ascenders 20">
+      <span class='ocrx_word' id='word_1_278' title='bbox 300 3822 407 3875; x_wconf 96'>Die</span>
+      <span class='ocrx_word' id='word_1_279' title='bbox 431 3822 687 3876; x_wconf 96'>meisten</span>
+      <span class='ocrx_word' id='word_1_280' title='bbox 712 3840 955 3876; x_wconf 96'>unserer</span>
+      <span class='ocrx_word' id='word_1_281' title='bbox 977 3823 1284 3876; x_wconf 96'>Patienten</span>
+      <span class='ocrx_word' id='word_1_282' title='bbox 1308 3824 1416 3876; x_wconf 92'>mit</span>
+      <span class='ocrx_word' id='word_1_283' title='bbox 1442 3819 2338 3876; x_wconf 91'>Schilddrüsenunterfunktion</span>
+      <span class='ocrx_word' id='word_1_284' title='bbox 2362 3820 2560 3876; x_wconf 93'>haben</span>
+      <span class='ocrx_word' id='word_1_285' title='bbox 2583 3823 2712 3875; x_wconf 92'>Ver-</span>
+     </span>
+     <span class='ocr_line' id='line_1_32' title="bbox 226 3922 2712 3999; baseline 0 -20; x_size 76; x_descenders 19; x_ascenders 20">
+      <span class='ocrx_word' id='word_1_286' title='bbox 226 3922 483 3989; x_wconf 96'>wandte,</span>
+      <span class='ocrx_word' id='word_1_287' title='bbox 520 3923 616 3980; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_288' title='bbox 651 3923 747 3980; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_289' title='bbox 779 3923 1054 3999; x_wconf 96'>gleichen</span>
+      <span class='ocrx_word' id='word_1_290' title='bbox 1088 3927 1435 3999; x_wconf 96'>Symptome</span>
+      <span class='ocrx_word' id='word_1_291' title='bbox 1466 3928 1582 3981; x_wconf 96'>wie</span>
+      <span class='ocrx_word' id='word_1_292' title='bbox 1614 3927 2075 3999; x_wconf 93'>Depressionen,</span>
+      <span class='ocrx_word' id='word_1_293' title='bbox 2110 3923 2569 3998; x_wconf 90'>Kraftlosigkeit,</span>
+      <span class='ocrx_word' id='word_1_294' title='bbox 2604 3926 2712 3980; x_wconf 92'>Ge-</span>
+     </span>
+     <span class='ocr_line' id='line_1_33' title="bbox 229 4027 2713 4104; baseline 0 -20; x_size 76; x_descenders 19; x_ascenders 20">
+      <span class='ocrx_word' id='word_1_295' title='bbox 229 4027 744 4085; x_wconf 91'>wichtszunahme</span>
+      <span class='ocrx_word' id='word_1_296' title='bbox 779 4028 907 4085; x_wconf 95'>und</span>
+      <span class='ocrx_word' id='word_1_297' title='bbox 941 4029 1096 4086; x_wconf 96'>kalte</span>
+      <span class='ocrx_word' id='word_1_298' title='bbox 1132 4029 1289 4086; x_wconf 96'>Füße</span>
+      <span class='ocrx_word' id='word_1_299' title='bbox 1326 4029 1670 4086; x_wconf 93'>aufweisen.</span>
+      <span class='ocrx_word' id='word_1_300' title='bbox 1709 4029 2218 4104; x_wconf 92'>Typischerweise</span>
+      <span class='ocrx_word' id='word_1_301' title='bbox 2254 4028 2507 4085; x_wconf 96'>wurden</span>
+      <span class='ocrx_word' id='word_1_302' title='bbox 2545 4028 2713 4085; x_wconf 96'>diese</span>
+     </span>
+     <span class='ocr_line' id='line_1_34' title="bbox 226 4132 2714 4209; baseline 0.001 -21; x_size 66; x_descenders 9; x_ascenders 20">
+      <span class='ocrx_word' id='word_1_303' title='bbox 226 4132 578 4190; x_wconf 96'>Anzeichen</span>
+      <span class='ocrx_word' id='word_1_304' title='bbox 603 4136 898 4208; x_wconf 96'>ignoriert,</span>
+      <span class='ocrx_word' id='word_1_305' title='bbox 925 4133 1010 4190; x_wconf 93'>als</span>
+      <span class='ocrx_word' id='word_1_306' title='bbox 1036 4133 1529 4191; x_wconf 91'>unvermeidbare</span>
+      <span class='ocrx_word' id='word_1_307' title='bbox 1553 4137 1948 4209; x_wconf 91'>Wesenszüge</span>
+      <span class='ocrx_word' id='word_1_308' title='bbox 1974 4137 2037 4190; x_wconf 96'>in</span>
+      <span class='ocrx_word' id='word_1_309' title='bbox 2063 4133 2166 4190; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_310' title='bbox 2189 4133 2436 4190; x_wconf 93'>Familie</span>
+      <span class='ocrx_word' id='word_1_311' title='bbox 2462 4133 2714 4208; x_wconf 92'>abgetan</span>
+     </span>
+     <span class='ocr_line' id='line_1_35' title="bbox 229 4237 2714 4313; baseline -0 -19; x_size 76; x_descenders 19; x_ascenders 21">
+      <span class='ocrx_word' id='word_1_312' title='bbox 229 4237 365 4303; x_wconf 96'>(wie</span>
+      <span class='ocrx_word' id='word_1_313' title='bbox 402 4237 580 4294; x_wconf 96'>blaue</span>
+      <span class='ocrx_word' id='word_1_314' title='bbox 620 4238 852 4313; x_wconf 96'>Augen)</span>
+      <span class='ocrx_word' id='word_1_315' title='bbox 894 4238 1022 4294; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_316' title='bbox 1060 4242 1159 4295; x_wconf 96'>nie</span>
+      <span class='ocrx_word' id='word_1_317' title='bbox 1200 4238 1494 4313; x_wconf 96'>abgeklärt</span>
+      <span class='ocrx_word' id='word_1_318' title='bbox 1535 4238 1676 4295; x_wconf 95'>oder</span>
+      <span class='ocrx_word' id='word_1_319' title='bbox 1711 4238 2055 4295; x_wconf 95'>behandelt.</span>
+      <span class='ocrx_word' id='word_1_320' title='bbox 2099 4242 2163 4294; x_wconf 96'>In</span>
+      <span class='ocrx_word' id='word_1_321' title='bbox 2203 4238 2466 4294; x_wconf 95'>anderen</span>
+      <span class='ocrx_word' id='word_1_322' title='bbox 2506 4237 2714 4294; x_wconf 95'>Fällen</span>
+     </span>
+     <span class='ocr_line' id='line_1_36' title="bbox 225 4340 2714 4418; baseline 0 -20; x_size 77; x_descenders 19; x_ascenders 21">
+      <span class='ocrx_word' id='word_1_323' title='bbox 225 4340 421 4398; x_wconf 96'>haben</span>
+      <span class='ocrx_word' id='word_1_324' title='bbox 448 4341 546 4398; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_325' title='bbox 571 4345 879 4399; x_wconf 97'>Patienten</span>
+      <span class='ocrx_word' id='word_1_326' title='bbox 905 4351 1167 4400; x_wconf 96'>erstaunt</span>
+      <span class='ocrx_word' id='word_1_327' title='bbox 1193 4342 1556 4418; x_wconf 96'>festgestellt,</span>
+      <span class='ocrx_word' id='word_1_328' title='bbox 1586 4342 1719 4400; x_wconf 96'>dass</span>
+      <span class='ocrx_word' id='word_1_329' title='bbox 1744 4342 1843 4400; x_wconf 96'>bei</span>
+      <span class='ocrx_word' id='word_1_330' title='bbox 1870 4345 2109 4418; x_wconf 96'>einigen</span>
+      <span class='ocrx_word' id='word_1_331' title='bbox 2136 4342 2291 4399; x_wconf 96'>ihrer</span>
+      <span class='ocrx_word' id='word_1_332' title='bbox 2315 4341 2714 4399; x_wconf 96'>Verwandten</span>
+     </span>
+     <span class='ocr_line' id='line_1_37' title="bbox 225 4446 2715 4523; baseline 0 -20; x_size 76; x_descenders 19; x_ascenders 20">
+      <span class='ocrx_word' id='word_1_333' title='bbox 225 4446 582 4503; x_wconf 96'>tatsächlich</span>
+      <span class='ocrx_word' id='word_1_334' title='bbox 612 4447 801 4504; x_wconf 96'>schon</span>
+      <span class='ocrx_word' id='word_1_335' title='bbox 828 4467 934 4504; x_wconf 96'>vor</span>
+      <span class='ocrx_word' id='word_1_336' title='bbox 959 4447 1169 4518; x_wconf 96'>Jahren</span>
+      <span class='ocrx_word' id='word_1_337' title='bbox 1198 4451 1331 4505; x_wconf 93'>eine</span>
+      <span class='ocrx_word' id='word_1_338' title='bbox 1361 4448 1827 4505; x_wconf 92'>Unterfunktion</span>
+      <span class='ocrx_word' id='word_1_339' title='bbox 1858 4447 2305 4523; x_wconf 96'>diagnostiziert</span>
+      <span class='ocrx_word' id='word_1_340' title='bbox 2333 4446 2461 4504; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_341' title='bbox 2491 4446 2715 4504; x_wconf 96'>seither</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_7' lang='deu' title="bbox 88 4671 3055 5108">
+     <span class='ocr_line' id='line_1_38' title="bbox 2640 4671 2713 4719; baseline 0 0; x_size 63.527233; x_descenders 15.527233; x_ascenders 17.365292">
+      <span class='ocrx_word' id='word_1_342' title='bbox 2640 4671 2713 4719; x_wconf 96'>97</span>
+     </span>
+     <span class='ocr_line' id='line_1_39' title="bbox 88 5078 3055 5108; baseline 0 -1; x_size 38.381035; x_descenders 9.3810358; x_ascenders 10.49153">
+      <span class='ocrx_word' id='word_1_343' title='bbox 84 5074 807 5108; x_wconf 33'>ID</span>
+      <span class='ocrx_word' id='word_1_344' title='bbox 1535 5074 1642 5108; x_wconf 22'>GGG</span>
+      <span class='ocrx_word' id='word_1_345' title='bbox 1654 5074 2105 5108; x_wconf 16'>AA)</span>
+      <span class='ocrx_word' id='word_1_346' title='bbox 2274 5074 2322 5108; x_wconf 35'>ß‘?</span>
+      <span class='ocrx_word' id='word_1_347' title='bbox 2323 5074 2386 5108; x_wconf 3'>OO</span>
+      <span class='ocrx_word' id='word_1_348' title='bbox 2455 5074 2520 5108; x_wconf 0'>NTOÜED:</span>
+      <span class='ocrx_word' id='word_1_349' title='bbox 2555 5074 2624 5108; x_wconf 27'>EN)</span>
+      <span class='ocrx_word' id='word_1_350' title='bbox 2644 5074 2681 5108; x_wconf 74'>&gt;Ö</span>
+      <span class='ocrx_word' id='word_1_351' title='bbox 2702 5074 2785 5108; x_wconf 0'>EP</span>
+      <span class='ocrx_word' id='word_1_352' title='bbox 2865 5074 3040 5108; x_wconf 0'>Sircätf!|t(ee::::sxs</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../070-deskew/370.tiff"; bbox 0 0 2972 5078; ppageno 0; scan_res 600 600'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 273 392 2751 4712">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 278 392 518 462">
+     <span class='ocr_line' id='line_1_1' title="bbox 278 392 518 462; baseline 0 -15; x_size 70; x_descenders 15; x_ascenders 16">
+      <span class='ocrx_word' id='word_1_1' title='bbox 278 392 518 462; x_wconf 96'>Anhang</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='deu' title="bbox 282 611 1056 688">
+     <span class='ocr_line' id='line_1_2' title="bbox 282 611 1056 688; baseline 0 -16; x_size 83.07869; x_descenders 21.078691; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_2' title='bbox 282 611 718 688; x_wconf 95'>Empfohlene</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 747 613 1056 674; x_wconf 96'>Literatur</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='deu' title="bbox 280 754 2746 907">
+     <span class='ocr_line' id='line_1_3' title="bbox 280 754 2746 821; baseline -0 -17; x_size 65; x_descenders 15; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_4' title='bbox 280 755 816 820; x_wconf 91'>Schulungsmaterial</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 870 755 1000 814; x_wconf 93'>(und</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 1052 755 1718 821; x_wconf 91'>Schulungskonferenzen)</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 1770 773 1875 805; x_wconf 93'>von</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 1925 756 2092 805; x_wconf 92'>Broda</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 2143 758 2200 805; x_wconf 90'>O.</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 2253 758 2456 811; x_wconf 96'>Barnes;</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 2510 754 2746 819; x_wconf 96'>Stiftung:</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 353 841 1509 907; baseline 0.001 -17; x_size 66; x_descenders 16; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_12' title='bbox 353 847 850 898; x_wconf 91'>+1-203-261-2101;</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 872 841 1509 907; x_wconf 89'>www.brodabarnes.org.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_4' lang='deu' title="bbox 280 927 2749 1080">
+     <span class='ocr_line' id='line_1_5' title="bbox 280 927 2749 993; baseline -0 -16; x_size 58; x_descenders 8; x_ascenders 17">
+      <span class='ocrx_word' id='word_1_14' title='bbox 280 927 514 985; x_wconf 92'>Shames,</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 544 927 784 985; x_wconf 92'>Richard,</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 814 930 974 985; x_wconf 92'>M.D.,</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 1006 927 1118 978; x_wconf 93'>und</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 1146 927 1345 978; x_wconf 91'>Karilee</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 1374 927 1504 978; x_wconf 93'>Halo</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 1535 928 1768 985; x_wconf 92'>Shames,</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 1798 931 1943 985; x_wconf 89'>R.N.,</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 1973 928 2060 978; x_wconf 92'>Ph.</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 2092 931 2148 978; x_wconf 91'>D.</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 2187 927 2406 993; x_wconf 91'>Thyroid</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 2431 930 2623 977; x_wconf 96'>Power:</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 2654 929 2749 976; x_wconf 96'>Ten</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 354 1013 1993 1080; baseline 0.001 -17; x_size 60; x_descenders 9; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_27' title='bbox 354 1016 507 1080; x_wconf 96'>Steps</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 529 1021 580 1064; x_wconf 96'>to</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 605 1013 746 1064; x_wconf 96'>Total</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 763 1013 969 1064; x_wconf 96'>Health.</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 997 1014 1145 1073; x_wconf 96'>(New</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 1163 1014 1308 1065; x_wconf 92'>York:</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 1331 1017 1800 1080; x_wconf 91'>HarperResource,</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 1825 1014 1993 1073; x_wconf 96'>2001).</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_5' lang='deu' title="bbox 279 1099 2746 1167">
+     <span class='ocr_line' id='line_1_7' title="bbox 279 1099 2746 1167; baseline -0.001 -17; x_size 67; x_descenders 16; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_35' title='bbox 279 1099 531 1158; x_wconf 92'>Shomon,</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 551 1103 699 1166; x_wconf 93'>Mary</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 715 1103 768 1162; x_wconf 90'>J.,</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 788 1103 967 1167; x_wconf 96'>Living</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 987 1100 1109 1151; x_wconf 95'>Well</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 1130 1100 1251 1151; x_wconf 93'>With</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 1271 1100 1732 1166; x_wconf 92'>Hypothyroidism</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 1755 1101 1968 1167; x_wconf 93'>(Harper</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 1985 1100 2318 1167; x_wconf 91'>Paperbacks:</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 2338 1099 2559 1150; x_wconf 96'>Revised</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 2580 1099 2746 1158; x_wconf 96'>2005).</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_6' lang='deu' title="bbox 279 1185 2751 1331">
+     <span class='ocr_line' id='line_1_8' title="bbox 279 1185 2751 1252; baseline -0.001 -16; x_size 66; x_descenders 16; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_46' title='bbox 279 1188 426 1243; x_wconf 96'>Starr,</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 463 1186 626 1243; x_wconf 93'>Mark,</span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 663 1189 822 1243; x_wconf 89'>M.D.,</span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 859 1187 1320 1252; x_wconf 92'>Hypothyroidism</span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 1362 1190 1491 1252; x_wconf 96'>Type</span>
+      <span class='ocrx_word' id='word_1_51' title='bbox 1526 1194 1576 1236; x_wconf 96'>2:</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 1614 1187 1718 1237; x_wconf 93'>The</span>
+      <span class='ocrx_word' id='word_1_53' title='bbox 1751 1187 2022 1252; x_wconf 92'>Epidemic</span>
+      <span class='ocrx_word' id='word_1_54' title='bbox 2058 1187 2204 1246; x_wconf 96'>(New</span>
+      <span class='ocrx_word' id='word_1_55' title='bbox 2238 1189 2391 1236; x_wconf 96'>Voice</span>
+      <span class='ocrx_word' id='word_1_56' title='bbox 2425 1185 2751 1235; x_wconf 96'>Publication</span>
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 353 1272 523 1331; baseline 0.006 -10; x_size 56.212593; x_descenders 13.212595; x_ascenders 15.419816">
+      <span class='ocrx_word' id='word_1_57' title='bbox 353 1272 523 1331; x_wconf 96'>2005).</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_7' lang='deu' title="bbox 273 4664 762 4712">
+     <span class='ocr_line' id='line_1_10' title="bbox 273 4664 762 4712; baseline -0.002 0; x_size 67.094147; x_descenders 15.77027; x_ascenders 18.404762">
+      <span class='ocrx_word' id='word_1_58' title='bbox 273 4664 386 4712; x_wconf 96'>370</span>
+      <span class='ocrx_word' id='word_1_59' title='bbox 760 4687 762 4690; x_wconf 74' lang='eng'>|</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
