@@ -18,7 +18,6 @@
       <span class='ocrx_word' id='word_1_3' title='bbox 1251 600 1334 640; x_wconf 96'>zu</span>
       <span class='ocrx_word' id='word_1_4' title='bbox 1362 577 1612 640; x_wconf 96'>diesem</span>
       <span class='ocrx_word' id='word_1_5' title='bbox 1638 577 1841 640; x_wconf 92'>Buch:</span>
-      <span class='ocrx_word' id='word_1_6' title='bbox 1906 655 1908 657; x_wconf 0'>_</span>
      </span>
     </p>
 
@@ -87,7 +86,6 @@
      </span>
      <span class='ocr_line' id='line_1_7' title="bbox 372 1189 1688 1262; baseline 0.004 -20; x_size 65; x_descenders 15; x_ascenders 17">
       <span class='ocrx_word' id='word_1_59' title='bbox 372 1189 638 1262; x_wconf 95'>sprechen.</span>
-      <span class='ocrx_word' id='word_1_60' title='bbox 1685 1198 1688 1202; x_wconf 81' lang='eng'>|</span>
      </span>
     </p>
 
@@ -253,7 +251,8 @@
       <span class='ocrx_word' id='word_1_159' title='bbox 987 3006 1042 3053; x_wconf 96'>in</span>
       <span class='ocrx_word' id='word_1_160' title='bbox 1063 3006 1298 3069; x_wconf 96'>jüngerer</span>
       <span class='ocrx_word' id='word_1_161' title='bbox 1320 3006 1431 3053; x_wconf 95'>Zeit</span>
-      <span class='ocrx_word' id='word_1_162' title='bbox 1453 3004 1649 3069; x_wconf 96'>klagen,</span>
+      <!-- fixed: klagen -> Klagen -->
+      <span class='ocrx_word' id='word_1_162' title='bbox 1453 3004 1649 3069; x_wconf 96'>Klagen,</span>
       <span class='ocrx_word' id='word_1_163' title='bbox 1676 3004 1794 3054; x_wconf 96'>dass</span>
       <span class='ocrx_word' id='word_1_164' title='bbox 1819 3006 1892 3053; x_wconf 96'>im</span>
       <span class='ocrx_word' id='word_1_165' title='bbox 1914 3003 2171 3061; x_wconf 96'>Ausland,</span>
