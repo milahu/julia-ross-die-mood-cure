@@ -24,7 +24,7 @@ for i in $src/*; do
   [ -e "$o" ] && continue
 
   echo + deskew -o "$o" "$i"
-  deskew -o "$o" "$i"
+  deskew -l 0 -o "$o" "$i"
 
   num_pages=$((num_pages + 1))
 

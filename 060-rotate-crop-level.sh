@@ -8,7 +8,8 @@
 set -eu
 
 cd "$(dirname "$0")"
-src=040-scan-pages
+# src=040-scan-pages
+src=045-crop-scan-area
 dst=$(basename "$0" .sh)
 
 if true; then
@@ -44,24 +45,29 @@ for i in $src/*.$scan_format; do
   page_number=${page_number#0}
   page_number=${page_number#0}
 
+  # [ "$page_number" = 20 ] && break # debug
+
   o=$dst/${i##*/}
 
   [ -e "$o" ] && continue
 
   if ((page_number % 2 == 1)); then
     rot=$rotate_odd
-    crop=$crop_odd
+    # moved to 045-crop-scan-area.py
+    # crop=$crop_odd
   else
     rot=$rotate_even
-    crop=$crop_even
+    # moved to 045-crop-scan-area.py
+    # crop=$crop_even
   fi
 
-  echo + magick "$i" -rotate $rot -crop $crop -level $level "$o"
-  magick "$i" -rotate $rot -crop $crop -level $level "$o"
+  # echo + magick "$i" -rotate $rot -crop $crop -level $level "$o"
+  # magick "$i" -rotate $rot -crop $crop -level $level "$o"
+
+  echo + magick "$i" -rotate $rot -level $level "$o"
+  magick "$i" -rotate $rot -level $level "$o"
 
   num_pages=$((num_pages + 1))
-
-  # [ "$page_number" = 20 ] && break # debug
 
   sleep 0.01 # let user kill
 
