@@ -13,13 +13,12 @@
    <div class='ocr_carea' id='block_1_1' title="bbox 33 997 2695 4503">
     <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 33 997 2695 4503">
      <span class='ocr_line' id='line_1_1' title="bbox 488 997 1918 1687; baseline 0.003 -456; x_size 247.98296; x_descenders 48.98296; x_ascenders 58">
-      <span class='ocrx_word' id='word_1_1' title='bbox 488 998 571 1686; x_wconf 66'>|</span>
-      <span class='ocrx_word' id='word_1_2' title='bbox 820 997 904 1687; x_wconf 3'>&#39;</span>
-      <span class='ocrx_word' id='word_1_3' title='bbox 974 1042 1354 1235; x_wconf 95'>Was</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 974 1042 1472 1235; x_wconf 95'>Was</span>
       <span class='ocrx_word' id='word_1_4' title='bbox 1551 1038 1918 1237; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_1' title='bbox 472 967 2423 1727; x_wconf 66'>Seele</span>
      </span>
      <span class='ocr_line' id='line_1_2' title="bbox 629 1812 2258 2067; baseline 0.013 -20; x_size 264.55118; x_descenders 46.551182; x_ascenders 84">
-      <span class='ocrx_word' id='word_1_5' title='bbox 629 1812 1621 2066; x_wconf 52' lang='eng'>eSSel</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 629 1812 1779 2066; x_wconf 52' lang='eng'>essen</span>
       <span class='ocrx_word' id='word_1_6' title='bbox 1872 1872 2258 2067; x_wconf 96'>will</span>
      </span>
      <span class='ocr_line' id='line_1_3' title="bbox 209 2546 2695 2816; baseline 0.002 -8; x_size 237.18521; x_descenders 47.185219; x_ascenders 54.174896">
@@ -39,7 +38,6 @@
       <span class='ocrx_word' id='word_1_18' title='bbox 2238 3015 2576 3073; x_wconf 91'>Künckeler</span>
      </span>
      <span class='ocr_line' id='line_1_5' title="bbox 33 3124 2194 3182; baseline 0.001 -3; x_size 71.243271; x_descenders 14.243272; x_ascenders 16">
-      <span class='ocrx_word' id='word_1_19' title='bbox 33 3133 41 3135; x_wconf 8'>]</span>
       <span class='ocrx_word' id='word_1_20' title='bbox 701 3124 806 3180; x_wconf 96'>Mit</span>
       <span class='ocrx_word' id='word_1_21' title='bbox 831 3124 1038 3181; x_wconf 95'>einem</span>
       <span class='ocrx_word' id='word_1_22' title='bbox 1059 3124 1330 3182; x_wconf 96'>Vorwort</span>
