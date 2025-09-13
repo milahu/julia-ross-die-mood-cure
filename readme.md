@@ -51,7 +51,7 @@ unsere seelische Gesundheit zurückgewinnen können:
 ### mood.cure.by.julia.ross.v6.2015.german.book.scan.600dpi.deskew.tiff
 
 ```
-TODO_BOOK_TORRENT_MAGNET_LINK
+magnet:?xt=urn:btih:c0da1fbcef023394f0ecc7dbf9d149144a70116d&dn=mood.cure.by.julia.ross.v6.2015.german.book.scan.600dpi.deskew.tiff&xl=1263006924&tr=udp%3A%2F%2F45.9.60.30%3A6969%2Fannounce&tr=udp%3A%2F%2F185.216.179.62%3A25%2Fannounce&tr=udp%3A%2F%2F93.158.213.92%3A1337%2Fannounce&tr=udp%3A%2F%2F107.189.2.131%3A1337%2Fannounce&piece_size=4194304
 ```
 
 ## mirrors
